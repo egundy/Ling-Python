@@ -1,1 +1,1 @@
-print("I love linguistics")
+print("I 'love' linguistics")
