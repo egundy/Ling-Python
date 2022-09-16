@@ -8,7 +8,6 @@ list_1 = ["ling", "anth", "math", "lang", "phil", "engl", "writ", "cogsci"]
 list_2 = ["ling", "stats", "bio", "cs", "ai", "math", "cogsci"]
 
 #check for common elements
-def common_elem(a,b):   #create function for finding common elements
-    result = [i for i in a if i in b] #for loop to iterate through elements in each list and 
-    return result
-print(common_elem(list_1,list_2)) #print result of function
+list_3 = set(list_1) & set(list_2)
+
+print(list(list_3)) #print result of function
