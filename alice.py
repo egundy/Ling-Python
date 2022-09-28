@@ -23,6 +23,10 @@ for wd in words:
         else:
             wordlengths[count] = 1
 
+g = open('alice2.txt','w')
 
 for c in wordlengths:
-    print(c,wordlengths[c])
+    clen = str(wordlengths[c])
+    res = str(c) + ': ' + clen + '\n'
+    g.write(res)
+g.close()
