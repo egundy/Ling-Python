@@ -1,11 +1,8 @@
-import sys
+import getsentences as gs
+import readfile as rf
 
-vowels = 'aeiou'
-word = sys.argv[1]
-counter = 0
-vowelcount = 0
-while counter < len(word):
-    if word[counter] in vowels:
-        vowelcount += 1
-    counter += 1
-print('There are', vowelcount, 'vowels in this word')
+txt = rf.readfile('alice.txt')
+txt = txt[1434:]
+s = gs.getsentences(txt)
+for i in range(10):
+    print(i,s[i])

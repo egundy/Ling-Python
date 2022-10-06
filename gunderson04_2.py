@@ -1,7 +1,8 @@
 import re
 import operator
+from sys import argv
 
-with open('prideprej.txt','r',encoding='utf-8') as file_in:
+with open(argv[1],'r',encoding='utf-8') as file_in:
     text_file = file_in.read()
     
 clean_text = re.sub(r'[^\w\s\_]','', text_file)
@@ -21,6 +22,6 @@ sorted_word_freq = sorted(word_freq.items(), key=operator.itemgetter(1), reverse
 
 
 sorted_dict = dict(sorted_word_freq)
-with open('p_and_p_freq.txt','w') as file_out:
+with open(argv[2],'w') as file_out:
     for key, value in sorted_dict.items():
-        file_out.write('%s\t%s\n' % (key, value))
+        file_out.write('%s:%s\n' % (key, value))
