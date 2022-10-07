@@ -1,8 +1,15 @@
 import getsentences as gs
 import readfile as rf
+import makespaces as ms
+
 
 txt = rf.readfile('alice.txt')
 txt = txt[1434:]
-s = gs.getsentences(txt)
+
+
+cleanedtext = ms.makespaces(txt)
+s = gs.getsentences(cleanedtext)
+
+
 for i in range(10):
-    print(i,s[i])
+    print('\n',i,':',s[i],sep='')
