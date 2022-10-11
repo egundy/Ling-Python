@@ -1,15 +1,20 @@
-import getsentences as gs
-import readfile as rf
-import makespaces as ms
+import lingmodules as lm
 
-
-txt = rf.readfile('alice.txt')
+txt = lm.readfile('alice.txt')
 txt = txt[1434:]
 
+cleanedtext = lm.makespaces(txt)
+ss = lm.getsentences(cleanedtext)
+ts = lm.trimspaces(ss)
 
-cleanedtext = ms.makespaces(txt)
-s = gs.getsentences(cleanedtext)
+counts = {}
 
-
-for i in range(10):
-    print('\n',i,':',s[i],sep='')
+for s in ts:
+    slength = len(s.split())
+    
+    if slength in counts:
+        counts[slength] += 1
+    else:
+        counts[slength] = 1
+for c in sorted(counts):
+    print(c,counts[c])

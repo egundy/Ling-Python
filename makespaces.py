@@ -18,3 +18,4 @@ def makespaces(t):
             r2 += r1[i]
         i += 1
     return r2
+# func45
