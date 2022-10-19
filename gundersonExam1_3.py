@@ -20,12 +20,12 @@ def readfile(filename):
     with open(filename,'r') as file_in:
         text = file_in.read()
     return text
-text = readfile(argv[1]) #reads file and makes it a list of strings
+text = readfile('alice.txt')#argv[1]) #reads file and makes it a list of strings
 
 #cleaning the text
-cleantext = re.sub(r'[^\w\d\s\']+', '', text)
-cleantext = cleantext.lower().split()#making text lower case to ignore capitalization while checking correct spelling and makes it a list
-
+cleantext = re.sub(r'[^\w\s]', ' ', text)
+cleantext = cleantext.lower().split()#makes it a list
+cleantext = set(cleantext) #change to set for speed purposes
 #check words in text are in wordlist
 misspelled_words = []
 for word in cleantext:

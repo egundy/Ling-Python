@@ -8,7 +8,9 @@ the apostrophes used to form a contraction. For example, if your function is pro
 function should return the list [“Examples", “of”, “contractions”, “include”, 
 “don't”, “isn't”, “and”, “wouldn't”]. '''
 import re
+import sys
+text = sys.arv[1]
 def clean_text(text):
-    clean_text = re.sub(r'[^\w\d\s\']+', ' ', text)
+    clean_text = re.sub(r'[\w\d\s\']+', ' ', text)
     clean_text = clean_text.split()
     return clean_text
