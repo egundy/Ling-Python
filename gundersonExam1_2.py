@@ -10,5 +10,5 @@ function should return the list [“Examples", “of”, “contractions”, “
 import re
 def clean_text(text):
     clean_text = re.sub(r'[^\w\d\s\']+', ' ', text)
-    print("Your cleaned list is:", clean_text.split())
+    clean_text = clean_text.split()
     return clean_text
