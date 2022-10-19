@@ -20,10 +20,9 @@ def readfile(filename):
     with open(filename,'r') as file_in:
         text = file_in.read()
     return text
-text = readfile('alice.txt')#argv[1]) #reads file and makes it a list of strings
-
+text = readfile(argv[1])#argv[1]) #reads file and makes it a list of strings          
 #cleaning the text
-cleantext = re.sub(r'[^\w\s]', ' ', text)
+cleantext = re.sub(r'[^a-zA-Z\s]'," ",text)    
 cleantext = cleantext.lower().split()#makes it a list
 cleantext = set(cleantext) #change to set for speed purposes
 #check words in text are in wordlist
@@ -34,4 +33,4 @@ for word in cleantext:
     else:
         misspelled_words.append(word)
 
-print("The incorrect words in your text are:", misspelled_words)
+print("The incorrect words in your text are: ", misspelled_words)

@@ -9,8 +9,14 @@ function should return the list [“Examples", “of”, “contractions”, “
 “don't”, “isn't”, “and”, “wouldn't”]. '''
 import re
 import sys
-text = sys.arv[1]
+def readfile(filename):
+    with open(filename,'r') as file_in:
+        text = file_in.read()
+    return text
+text = readfile(sys.argv[1])
 def clean_text(text):
-    clean_text = re.sub(r'[\w\d\s\']+', ' ', text)
+    clean_text = re.sub(r'[^\w\d\s\']+', ' ', text)
     clean_text = clean_text.split()
     return clean_text
+result = clean_text(text)
+print(result)
