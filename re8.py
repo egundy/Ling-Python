@@ -1,9 +1,13 @@
 import re
 import sys
-import readfile as rf
+from lingmodules import readfile as rf
 
-words = rf.readfile('alice.txt').split()
+words = set(rf('alice.txt').split())
+matches = []
 for w in words:
     m = re.search(sys.argv[1],w)
     if m:
-        print(w)
+        matches.append(w)
+
+matches = set(matches)
+print('there are',len(matches),'matches')
