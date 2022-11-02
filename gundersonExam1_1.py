@@ -10,12 +10,14 @@ def readfile(filename):
 def find_longest(words):
     longest_words = []
     largest_len = 0
+    longest_word = ''
     for word in words:
         if len(word) > largest_len:
             largest_len = len(word)
-            longest_words = word
-        elif len(word) == largest_len:
-            longest_words.append(word)
+            longest_word = word
+    for i in words:
+        if len(i) == len(longest_word):
+            longest_words.append(i)
     return longest_words, largest_len
 
 def main():
