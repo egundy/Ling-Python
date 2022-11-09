@@ -4,40 +4,29 @@ possible word in English. In other words, you should identify the existing onset
 generate possible forms using the clusters. Just for your information, my program generates 56 
 possible words that rhymes with bake.  '''
 
-
-
 import re
-
-
 def main():
     word = input("Word to rhyme: ")
-    word = word.split()
     prefixes = list('bcdfghjklmnpqrstvwxyz') + (
         'bl br ch cl cr dr fl fr gl gr pl pr sc '
         'sh sk sl sm sn sp st sw th tr tw thw wh wr '
         'sch scr shr sph spl spr squ str thr').split()
 
     start, end = stem(word)
+    counter = 0
     for i in prefixes:
-        print(i,end)
+        counter += 1
+        print(i + end)
+    print('\n Number of Rhymes: ', counter)
 
 def stem(w):
     w = str(w)
     w = w.lower()
-    vowels = ('aeiou')
-    consonants = 'bcdfghjklmnpqrstvwxyz'
-    pattern = (
-        '([' + consonants + ']+)?'
-        '([' + vowels + ']+)?'
-        '(.*)'
-    )
-    match = re.match(pattern, w)
-    if match:
-        p1 = match.group(1) or ''
-        p2 = match.groups(2) or ''
-        p3 = match.groups(3) or ''
-        return (p1,p2 + p3)
+    search = re.search('(^[^aeiou]*)([aeiouy].*)', w) # firgure out what to do with 'y'
+    if search:
+        start = search.group(1) 
+        end = search.group(2)
+        return start, end
         
-
 if __name__ == '__main__':
     main()

@@ -5,3 +5,5 @@ uppercase, and the uppercase letter moved to the end of the word should be chang
 lowercase. For example, Computer should become Omputercay. If a word ends in a punctuation 
 mark, then the punctuation mark should remain at the end of the word after the transformation 
 has been performed. For example, Linguistics! should become Inguisticslay! '''
+
+import re

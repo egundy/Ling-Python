@@ -1,8 +1,27 @@
 import bs4
-import urllib.request
+import time
+from urllib.request import urlopen
+from multiprocessing import Pool
 
-link = "http://www.u.arizona.edu/~hammond/"
+def mytime():
+    return round(time.time() * 1000)
 
-f = urllib.request.urlopen(link)
-myfile = f.write('hammond.html')
-print(myfile.decode('UTF-8'))
+def geturl(url):
+    start = mytime()
+    data = urlopen(url, timeout=5).read()[:50]
+    result = {'url' : url, 'data' : data}
+    now = str(mytime() - start)
+    print(url + ": " + now + "ms")
+    return result
+
+urls = ['https://en.wikipedia.org/wiki/Main_Page', 'https://google.com', 'https://news.google.com/' ]
+
+for i in range(len(urls)):
+    print(i+1, ": ", urls[i],sep='',)
+print()
+
+pool = Pool()
+start = mytime()
+results = pool.map(geturl,urls)
+now = str(mytime() - start)
+print("Total= " + now + " ms\n")

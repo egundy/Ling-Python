@@ -1,0 +1,366 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cognitive Linguistics
+
+
+Book Review
+
+Rochelle Lieber. English Nouns: The Ecology of Nominalization. Cambridge
+Studies in Linguistics 150. Cambridge: Cambridge University Press, 2016, 197
+pp. ISBN 978-1-107-16137-5. Hardback and E-book 49.99 USD.
+
+Reviewed by Chongwon Park, Department of English, Linguistics, and Writing Studies,
+University of Minnesota, Duluth, USA, E-mail: cpark2@d.umn.edu
+
+https://doi.org/10.1515/cog-2017-0077
+
+This monograph is another important contribution by Rochelle Lieber, whose
+main interest for several decades has been English morphology. Lieber right-
+fully argues that the relationship between form and meaning in the nominali-
+zation process is never one-to-one. Rather, it forms a complicated network. She
+further demonstrates how this polysemous relationship can be captured in the
+modified Lexical Semantic Framework (LSF), which was mainly developed in
+Lieber (2004) from a formal linguistics perspective. Lieber’s analyses and
+arguments are based on naturally occurring data extracted from the Corpus
+of Contemporary American English (Davies 2008). In presenting her argu-
+ments, she uses the derivational ecosystem metaphor. In this metaphor, mor-
+phological types (specific affixes and conversion) are analogous to organisms,
+while readings (agent, location, etc.) are analogous to habitats. Here, Lieber
+emphasizes that complex forms are construed depending on the context as
+opposed to having fixed semantic content. While rigid semantic content is
+termed meaning, Lieber uses the term reading to refer to a context-dependent
+meaning.
+
+According to Lieber, some habitats will have several morphological types
+that inhabit them, whereas other habitats are largely uninhabited. In the latter
+case, morphological types can expand their territories by deploying themselves
+to cover those underexploited semantic habitats. One example Lieber identifies
+for this particular case is the derivation of inanimate patient nouns. She
+observes that English does not have a primary morphological type that inhabits
+the inanimate patient semantic habitat. This previously unpopulated habitat is
+becoming inhabited by nominalizations derived with -ing, -er, conversion, and
+ATK (an acronym for -ation and kin) nominalizations, as exemplified by washing,
+loaner (as in If I don’t get a new computer soon, I hope I can get a loaner), melt (as
+in Before making the cake pops, I bought several colors of candy melts), and
+concoction. She also suggests that the -ables affix, as in collectables, is in the
+process of evolution toward an organism that would eventually inhabit the
+
+Cognitive Linguistics 2017; aop
+
+Authenticated | cpark2@d.umn.edu author's copy
+Download Date | 10/16/17 2:27 AM
+
+
+
+inanimate patient noun habitat. This particular affix, however, is evolving with a
+specific modal nuance. I find this example intriguing, and will come back to it
+later in my review.
+
+This book is soundly written; the logical flow is natural, and the technical
+LSF analyses are well explained and easy to follow. The book is composed of
+three parts. Part I, which contains two chapters, provides necessary justifica-
+tions for the research as well as the terminology and methodology adopted in
+this book. Chapter 1 identifies the overall goal of this monograph. Though much
+research has discussed Event/Result (E/R) and personal nominalizations, con-
+spicuously less attention has been paid to the full range of nominalizations. In
+Lieber’s words, “[n]either morphologists nor syntacticians have studied the full
+range of data pertaining to nominalizations or the intricacies of polysemy that
+nominalizations display” (p. 5). This, however, is the task Lieber has set herself:
+to include E/R and personal nominalizations, collective and abstract nominali-
+zations, and a few seldom-discussed nominalizations in her analyses. This book
+undoubtedly achieves the goal by presenting some of the most thorough
+research on the full range of English nominalization. Chapter 2 sets out the
+terminology Lieber uses and discusses the sources for data. This is an important
+step because different people use different terms in dealing with nominaliza-
+tions, which oftentimes causes confusion. In this chapter, Lieber defines opposi-
+tions, such as simplex vs. complex nouns, eventive vs. non-eventive readings,
+active vs. passive configurations, and argumental vs. non-argumental com-
+pounds, among other terms.
+
+Part II, which consists of two chapters, is devoted to the discussion of
+previous claims and the current data. In Chapter 3, Lieber raises nineteen
+questions gathered from discussions in the extant research. These questions
+not only pertain to E/R and ATK nominalizations, but also to conversion and
+simplex nouns. Lieber demonstrates that the putative answers for the vast
+majority of these questions need to be reconsidered when we examine the
+data extracted from COCA (the Corpus of Contemporary American English). In
+sum, she argues that nominalizations are much more malleable than previous
+researchers have claimed. Chapter 4 starts out by providing readings of affixes
+with relevant examples. Throughout this process, Lieber states that we almost
+never find one-to-one relationships between affixes and readings. Her deriva-
+tional ecosystem metaphor is best depicted in Figure 1, redrawn after Lieber’s
+Figure 4.1 (p. 73). In this figure, each semantic habitat contains multiple mor-
+phological types, and one morphological type can occupy multiple semantic
+habitats. Morphological types rendered in regular font express the identified
+semantic habitats primarily, whereas the lighter font depicts morphological
+types that express the relevant habitat secondarily.
+
+2 Book Review
+
+Authenticated | cpark2@d.umn.edu author's copy
+Download Date | 10/16/17 2:27 AM
+
+
+
+Part III provides analyses of nominalizations in LSF. Chapter 5 lays out the basic
+concepts and notations of LSF necessary for the analysis of nominalizations. In
+addition to the seven semantic features provided in Lieber (2009), such as [+/–
+material] for concrete or abstract nouns and [+/– dynamic] for event or state
+readings, she adds one more feature critical to the analysis of nominalization:
+[+/– animate]. Based on her earlier work, she also introduces Principle of
+Coindexation (PC) and Principle of Feature Value Matching (PFVM). What PC
+does is to coindex the highest non-head argument with the highest head argu-
+ment. For example, in the nominal, the neighbor’s construction of the garage, the
+
+Figure 1: Habitats and Their Occupants.
+
+Book Review 3
+
+Authenticated | cpark2@d.umn.edu author's copy
+Download Date | 10/16/17 2:27 AM
+
+
+
+head noun construction’s highest argument is marked < sentient > , and the sen-
+tient argument neighbor is coindexed with it, thereby leading to the subject-like
+reading of neighbor’s. PFVM is needed to copy the feature of the base in the
+derived nominal. For example, the feature [ + dynamic] of the base verb con-
+struct needs to be copied to the nominalized form construction in The construc-
+tion took place last summer. By contrast, His preoccupation took place last
+summer is not acceptable, because the base verb preoccupy is marked [–
+dynamic], and the negative value is copied to the nominalized form. With the
+technical preliminaries laid out in Chapter 5, the analysis of the event reading of
+E/R nominalizers naturally follows in Chapter 6. Lieber demonstrates how PC
+can be utilized in analyzing AKT/-ing nominalizations and conversion nouns.
+Remarkably, she demonstrates that the -ing nominalizations exhibit precisely
+the same pattern of behavior as ATK nominalizations.
+
+Then, Lieber moves on to Chapter 7, which deals with various referential
+readings nominalizations can convey. I find this chapter the most interesting in
+this monograph. This chapter provides in-depth analyses of the referential read-
+ings for ATK, -ing, conversion, personal, abstract, collective, and inanimate
+patient nominals. Lieber argues that the various readings of these nominals
+arise through the interplay between the skeletal configurations and the two
+aforementioned principles. It is worth noting that she introduces another impor-
+tant concept, contextual coercion, which is needed to determine some of the
+feature values within the larger context in which the nominalization occurs. In
+the example The Guggenheim, …, provided President Fraga with an example of a
+successful construction that helped to remake a city’s image, contextual coercion
+allows us to infer that construction is a concrete entity, leading to the assignment
+of the positive value to the [material] feature. Likewise, in analyzing the -er affix,
+Lieber assumes that the referential argument of the affix is underspecified for
+the [animate] feature, and the positive or negative value is assigned drawn from
+the general context through contextual coercion.
+
+Chapter 8, which is somewhat independent of the other chapters and largely
+overlapping with Lieber (2016), focuses on compounding. Similar to Chapter 3,
+Lieber starts out by summarizing the claims made by previous researchers, and
+then she debunks the claims based on the data extracted from COCA. Non-
+argumental compounds – attributive (such as atomic bomb) and coordinative
+(such as teacher-scholar) – are straightforwardly accounted for in LSF because
+both the first and the second elements have only one referential argument;
+however, encyclopedic information plays an important role in determining the
+readings. By contrast, argumental compounds – synthetic (such as truck driver)
+and non-affixal (de)verbal (such as attack dog) compounds – require more
+complicated indexation mechanisms but are less dependent on contextual and
+
+4 Book Review
+
+Authenticated | cpark2@d.umn.edu author's copy
+Download Date | 10/16/17 2:27 AM
+
+
+
+encyclopedic information. Overall, this chapter observes new types of data
+hitherto unrecognized.
+
+The last chapter, Chapter 9, concludes this book by repeating the deriva-
+tional ecosystem: “I believe that studying complex nouns in their natural habi-
+tats – nouns in the wild, as it were – leads us to understand the workings of
+derived nouns in a much deeper way” (p. 185). Here, the natural habitat of
+course refers to large corpora.
+
+There is no denying that this book makes significant contributions both
+empirically and theoretically. Be that as it may, I believe there are several
+weaknesses. First, Lieber emphatically states that one nominalizing affix has
+multiple readings, which are intricately connected with each other through
+polysemous relationships. In fact, this is one of her main theses in this book.
+Although this type of polysemy network has rarely drawn full attention within
+the formal linguistics camp, there is a long tradition that deals with polysemous
+word and affixal meanings in the cognitive linguistics enterprise. Due to space
+limitations, I will not introduce a comprehensive list of the relevant research,
+but some of the previous studies exclusively focus on nominalizing affixes like
+-er. They include Heyvaert (2003), Panther and Thornburg (2002), and Ryder
+(1999), among many others. It is unfortunate that these researchers’ work has
+not been incorporated into this monograph. Lieber clearly points out that the
+lack of communication between syntacticians and morphologists is a hurdle for
+the advancement of our understanding of nominalizations (p. 6). Nevertheless,
+she seems to ignore the majority of the work achieved outside of the formal
+linguistics tradition, which I believe is somewhat ironic, considering her criti-
+cism on the lack of communication among linguists.
+
+Second, Lieber states, “I look at this problem [how meaning happens] from
+the perspective of a generative morphologist, one who believes that only a
+carefully crafted formal system can yield precise predictions that can be tested
+against linguistic data” (p. 180). I have no issues with carefully crafted formal
+systems, and I strongly believe formal systems have their own values. However,
+formal systems have many limitations, and we can certainly make precise
+predictions without the help of formal apparatus. Consider Lieber’s claim that
+some semantic features are validated through contextual coercion, which
+requires understanding of the larger speech context. Although she relies on
+contextual coercion when dealing with referential readings, she does not pro-
+vide any formal mechanism for that process, let alone a carefully crafted version.
+Nevertheless, contextual coercion becomes crucial in deriving desirable readings
+and making correct predictions in her analysis. I wish Lieber had delved into the
+nature of contextual coercion more deeply, because in the current definition, it
+is overly vague and open to many interpretations.
+
+Book Review 5
+
+Authenticated | cpark2@d.umn.edu author's copy
+Download Date | 10/16/17 2:27 AM
+
+
+
+The third weakness concerns the rise of polysemous meanings. For example,
+in analyzing the -er affix, Lieber relies on four components: skeletal configura-
+tions of the affix and the base, PC, PFVM, and (potentially) Principle of Coercion.
+These components collaborate to create various readings of -er nominals. Since
+-er nominals can be used for non-agentive entities like loaner discussed above,
+she underspecifies the [animate] feature for the referential argument of -er. This
+is a somewhat unsatisfactory resolution because -er historically originated from
+agentivity (Heyvaert 2003) and the vast majority of -er nominals still represent
+agentivity. For this reason, I believe her underspecification approach is moti-
+vated more by a theoretical convenience than based on empirical grounds. As
+for the rise of the polysemous meanings, I believe there are many examples that
+cannot be easily explained by the interplay of the four aforementioned compo-
+nents. Consider the oft-discussed example, cliffhanger, which means ‘suspense-
+ful event’. Panther and Thornburg (2002) provide one of the most elaborated
+analyses of English -er nominals based on metaphoric and metonymic shifts.
+According to them, the source concept HUMAN (EXPERIENCER) PARTICIPANT
+undergoes metonymic shift to the target concept EVENT, thereby leading to the
+reading ‘event that the human participant is crucially involved in.’ In addition,
+the base cliffhang is also elaborated metonymically by the CAUSE FOR EFFECT
+metonymy: from activity (cliffhanging) to effect of activity (suspense). In other
+words, new polysemous meanings arise due to metonymic and metaphoric shifts
+that operate both on the base and the affix. In this approach, we can also
+identify the fully specified primary meaning of the -er affix. I believe Panther
+and Thornburg’s metaphor/metonymy-based approach to English nominals will
+answer many unanswered questions in Lieber’s LSF-based analysis. Perhaps, a
+similar type of analysis might be extended to the -ables affix, which derives
+inanimate patient nouns.
+
+Fourth, some technical LSF analyses need more attention. For example, the
+[dynamic] feature for the -ing affix is underspecified. This is so because the
+polarity value needs to be copied from that of the base. The noun dwelling
+inherits the negative value for [dynamic] from the stative base dwell. This copy
+mechanism cannot explain many examples such as droppings as in bird’s drop-
+pings, because the base drop is marked [ + dynamic], but the noun droppings
+needs to be marked [– dynamic]. Another technical challenge is observed when
+dealing with the -ables affix. To incorporate the modal nuance of the affix,
+Lieber introduces the modal operator symbol used in modal logic without
+further discussion on how this modal nuance arises. Once again, I believe this
+is more likely a technical convenience rather than an explanation or an analysis.
+Consequently, while the discussion is based on an interesting and astute obser-
+vation, the analysis suffers from a lack of detail.
+
+6 Book Review
+
+Authenticated | cpark2@d.umn.edu author's copy
+Download Date | 10/16/17 2:27 AM
+
+
+
+Finally, Lieber completely ignores two other types of nominalizations known
+as POSS-ing and ACC-ing as in his destroying the sandcastle and him destroying the
+sandcastle, respectively. I understand that she focuses on lexical nominaliza-
+tions, which are more morphologically oriented than the gerundive nominaliza-
+tions. However, both POSS-ing and ACC-ing nominalizations need to reflect the
+base verb’s argument structures one way or another. Since LSF is also highly
+reflective of the base’s argument and skeletal configurations, asking for a dis-
+cussion on these nominalizations does not seem to be too far-fetched.
+
+Overall, this book will be of interest to those working in the field of English
+nominalization. It also has a great potential for people who are working on
+languages typologically different from English to see how LSF can be adopted in
+the analysis of those languages. There is undoubtedly great merit in trying to
+develop an inclusive theory that accounts for a full range of nominalizations, as
+Lieber does in this book. That said, I believe incorporating the findings discov-
+ered in cognitive linguistics would make the research on nominalizations much
+more interesting and fruitful. It is unfortunate that the neglect of relevant
+cognitive linguistics research makes the book a less satisfying read than it
+would have been otherwise.
+
+References
+
+Davies, Mark. 2008. Corpus of Contemporary American English. http://corpus.byu.edu/coca.
+Heyvaert, Liesbet. 2003. A cognitive-functional approach to nominalization in English. Berlin &
+
+New York: Mouton de Gruyter.
+Lieber, Rochelle. 2004. Morphology and lexical semantics. Cambridge: Cambridge University
+
+Press.
+Lieber, Rochelle. 2009. A lexical semantic approach to compounding. In Rochelle Lieber & Pavol
+
+S ̌Tekauer (eds.), The Oxford handbook of compounding, 78–104. Oxford: Oxford University
+Press.
+
+Lieber, Rochelle. 2016. The lexical semantic approach to compounding. In Pius Ten Hacken
+(ed.), The semantics of compounding, 38–53. Cambridge: Cambridge University Press.
+
+Panther, Klaus-Uwe & Linda L. Thornburg. 2002. The roles of metaphor and metonymy in
+English -er nominals. In René Dirven & Ralf Pörings (eds.), Metaphor and metonymy in
+comparison and contrast, 279–319. Berlin & New York: Mouton de Gruyter.
+
+Ryder, Mary E. 1999. Bankers and blue-chippers: An account of -er formations in present-day
+English. English Language and Linguistics 3(2),269–297.
+
+Book Review 7
+
+Authenticated | cpark2@d.umn.edu author's copy
+Download Date | 10/16/17 2:27 AM
+
+http://corpus.byu.edu/coca
+
