@@ -1,0 +1,2238 @@
+
+language and cognition    doilangcog
+ uk cognitive linguistics association when richard met cg referencepoint  
+and english copyraising
+chongwon park
+ and 
+daniel turner
+university of minnesota duluth
+received  january   revised  july   accepted  august    
+first published online  october 
+abstract
+the aim of this paper is to develop a cognitive grammarbased analysis 
+of english copyraising cr constructions such as richard seems like he is dancing we argue that the notion of referencepoint plays a crucial role in licensing the matrixsubject of the construction in cr with the 
+epistemic verbs seem and appear the matrixsubject functions as a 
+referencepoint in relation to the pronominal copy if a copy exists in the embedded clause the aboutness topicality of the matrixsubject in cr is expected owing to its referencepoint property  the epistemic cr construction is acceptable without a pronominal copy if the matrixsubject functions as a referencepoint in relation to the complement clause the same type of analysis is applied to the cr construction with perceptual resemblance pr verbs  sound look feel and smell  leading 
+to the conclusion that the strong dichotomy between epistemic and pr verbs is illusory  it is further demonstrated that expletive thereraising in cr is motivated by the same referencepoint phenomenon the difference between thereraising and other cr examples stems from the role of there as a setting subject our referencepointbased analysis 
+  we would like to express our deep gratitude to the three anonymous reviewers of this 
+paper and to the editor laura michaelis at three different stages they provided incredibly valuable suggestions and comments that improved the paper significantly  of course any remaining errors or unclear explanations are our own shortcomings this project was supported by university of minnesotas gps grant as well as deans excellence funds from the college of liberal arts of the university of minnesota duluth we would like to thank the gps team and dean sue maher for their generous support many of our colleagues helped us improve the paper they include but not limited to david beard iksoo kwon bridget park debbie rose william salmon craig stroupe and liz wright we also would like to thank the  survey participants at umd and our audience at the th uk cognitive linguistics conference held at the university of lancaster in july of 
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgepark and turner  rogers   calls this type of construction a richard construction  based on his 
+examples which included sentences like richard seems like he is in trouble however we 
+will use the general term copyraising throughout this paper despite our nod to rogers richard in the title
+  the movement mechanism of course is relevant only to the generative approach
+  rogers     classifies these verbs as flip perception verbs 
+  see davies and dubinsky  for a review of raising in generalpredicts a metonymic interpretation of the matrixsubject which we 
+attribute to the connection between referencepoint and metonymy 
+keywords cognitive grammar copyraising perceptual resemblance 
+verbs perceptual source referencepoint
+ introduction
+the english subjecttosubject raising ssr construction 
+illustrated in  has been an extensively researched topic across diverse 
+theoretical frameworks since rosenbaum  
+   mia seems to be leaving for the concert  ssr 
+albeit similar copyraising cr shown in  contrasts with ssr in 
+three distinctive ways first in the ssr example  the subject of the matrix clause is coindexed with the subject gap in the infinitival clause
+ 
+this is different from the cr example  where the matrix subject is coindexed with the overtly realized pronoun in the complement clause second unlike ssr the cr predicate takes a tensed complement headed by like as if or as though the third noticeable difference is the choice of predicates 
+while ssr is not permitted with perceptual resemblance pr 
+verbs
+ as in  cr is compatible with this verb class as shown in  
+   mia seems like  as if  as though she is leaving for the concert  cr
+    mia soundslooksfeels to be ready for the concert
+   mia soundslooksfeels like she is ready for the concert 
+compared to ssr significantly less attention has been paid to cr this 
+is perhaps because cr was treated as a highly marked construction found only in english
+ in reality cr is a widespread phenomenon observed in 
+many different languages such as samoan chung  hebrew lappin  irish mccloskey  sells  haitian creole dprez  persian darzi  turkish moore  and swedish asudeh  toivonen 
+cr was initially discussed from a generative linguistics perspective by rogers 
+in a series of cls papers    and his phd dissertation  
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgereferencepoint and english copyraising  mack  provides an analysis from a discoursepragmatic perspective
+  sentences are rated as acceptable scores    and unacceptable    notated by  
+we understand that raters are more consistent with openended ratio scales than with the 
+category rating scales like the one we adopted here johnson  stevens  but we chose it as a guideline for the purpose of simplicity 
+  the range of acceptable sentences is wider than that of unacceptable ones participants were generally not in favor of cr and pr constructions for this reason we gave the  mark when the examples received conspicuously low ratingsand also by postal  more recently potsdam and runner  revisited 
+this topic from a fresh perspective since then cr has drawn renewed attention from scholars as demonstrated by a handful of recent publications asudeh    asudeh  toivonen  fujii   kim  landau   mack  it is interesting to note that most of the aforementioned research was conducted from the formal linguistics perspective despite the diversity of theoretical frameworks the authors 
+adopt
+ as far as we are aware very little research examines this topic within 
+cognitive linguistics
+the main purpose of this paper is to develop an analysis of english cr 
+constructions from a cognitive grammar viewpoint langacker  a 
+b    and to present some broader implications of our analysis our specific objective is modest to show how cr can be naturally accommodated from a theoretical perspective very different from the previous 
+proposals listed above the data we present in this paper come from three 
+sources published papers corpus and web searches and our own intuition except for one korean example our data were surveyed among  native english speakers who rated the acceptability of each example using a standard likert scale
+
+ proposal
+we argue that the matrixsubject in  and  is licensed via the independently 
+established informational construct known as referencepoint our view contrasts with the duallicensing approach horn  mack  rogers   sag  inter alia which assumes two distinct mechanisms one purely syntactic and the other interpretiveinformational more specifically we argue that the cr construction is an instance of referencepoint referencepoint is the human cognitive ability to conceptualize one entity through another ie referencepoint is a mental address to reach a 
+target the aspects of the referencepoint relation are shown schematically 
+in figure  in figure  c stands for the conceptualizer r for the referencepoint and d for the dominion  dominion constitutes the 
+possible set of targets that a given referencepoint is related to the dashed 
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgepark and turnerarrow is the mental path the conceptualizer follows to reach the target which 
+is the entity accessed via the referencepoint
+to illustrate a concrete case of referencepoint let us consider the possessive 
+noun phrase sallys dog the possessive morphemes invokes a referencepoint relationship in the sense that x in the schematic possessive construction xs y functions as a mental address for y  by drawing a mental path from x to y  in this example sally is invoked as a referencepoint and dog is accessed via sally the notion of referencepoint has in fact been adopted in the analysis of various phenomena such as possessorpossessee langacker  taylor  multiple subject constructions kumashiro  langacker  park  and antecedentanaphora van hoek  among others
+referencepoint plays an important role in discerning cr from ssr the 
+matrixsubject of cr with epistemic verbs ecr is almost always topical whereas the same does not hold true for ssr see mack  we demonstrate that these differences are merely symptomatic of referencepoint variation in regard to prototypicality  a prototypical referencepoint relationship overtly identifies a referencepoint and its target within a relevant dominion while the matrixsubject of ecr exhibits a quintessential referencepoint property ssr does not as it lacks an overt target pronominal copy here we would like to emphasize that referencepoint is not identical to topicality  in his 
+works langacker suggests that referencepoint is a sort of topic without providing further detailed descriptions on how they compare in our view  referencepoint is a necessary condition for topicality  if x is a topic then x is a referencepoint referencepoint is not a sufficient condition for topicality because it is possible that x  is a referencepoint without being a topic indeed 
+in the literature that adopts the notion of referencepoint scholars such  
+as kumashiro and langacker  and janda  utilize an implicit referencepoint which cannot be interpreted as a topic for example in the 
+korean sentence  the relational nominal subject hand implicitly invokes 
+fig  referencepoint illustrated redrawn after langacker  p 
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgereferencepoint and english copyraising  a strong demarcation between epistemic verbs and pr verbs is untenable as shown in 
+section  some epistemic verbs behave like pr verbs and vice versaa referencepoint the owner of the hand because without the owner the speaker 
+cannot access hand see park  the implicitly invoked referencepoint 
+functions as a mental address for hand in the lower clause without identifying a specific person although it ultimately corresponds to trump in the higher clause
+ 
+   thulemphuka  soni  cakta
+    trumpsubj  handsubj  besmall
+    trump has small hands 
+another interesting observation is the contrast between epistemic and pr 
+verbs while pr verbs do not require a pronoun copy in the embedded clause as in b epistemic verbs generally do as shown in a
+ 
+   a    dan seemedappeared like jean cooked salmon
+  b  dan sounded like jean cooked salmon 
+as will be discussed in detail later several scholars attempted to explain the difference between a and b by heavily relying on the notion of perceptual source psource here is a brief summary of the psourcebased analysis dans being the psource in b makes the sentence acceptable 
+whereas the infelicity of a is attributed to the uninterpretability of dan  
+as an evidential psource mack  p  rightly criticizes this type of approach by arguing that the evidential source for sound need not be 
+perceptual at all evidence may also come from hearsay or inference in other 
+words dan does not have to be an evidential psource to make b felicitous 
+this is the view we too support that being said asudeh and toivonen  and landau  provide more sophisticated treatments of cr based on psource which is naturally not reflected in mack  due to the timing of the publications for this reason we revisit the psourcerelated predictions more carefully in this paper
+instead of relying on the notion of psource we argue that the matrix
+subject dan in a attempts to build a referencepoint relationship with its 
+target whether it be a pronominal or the whole embedded clause dan then requires an explicit target to express an anaphoric link between itself and its corresponding pronoun or dan should be able to be interpreted within the context of jean cooked salmon in the former case the target is the pronoun 
+while in the latter case the target is the whole embedded clause because no 
+target pronoun is identified or cannot be established the resulting sentence is unacceptable b differs from a in that dan is a referencepoint in relation to the embedded clause the referencepoints target this is because the proposition made by the embedded clause can only be interpreted in 
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgepark and turner  as will become clearer in later sections there in the examples like there is a riot in the park 
+does not function as a referencepoint though it is indeed a setting subject
+  the metonymic status of that book in this example is somewhat controversial if that book  
+refers to a physical tome some linguists croft  ruiz de mendoza ibez  
+would not consider it metonymic since they regard physical object as primary in 
+the book domain as opposed to a secondary domain even so other linguists such as 
+barcelona  would consider this at least peripherally metonymic for detailed discussion on the definition of metonymy please refer to benczes barcelona and ruiz de mendoza ibez dans dominion if dan is contextually related in this sense it functions very 
+similarly to an external topic which mack  identifies as a subjective topic note that the same type of interpretation is not available in a
+our approach exhibits great similarity to kims  p  perceptual 
+characterization condition pcc he states that the matrixsubject of the cr construction serving as the topic is perceptually characterized by the rest of the utterance that said unlike kims pcc 
+our analysis employs referencepoint which is a way to construe semantic 
+content through a dynamic mental scanning process ubiquitously observed in human language
+the relationship between referencepoint and topicality also brings into 
+question the socalled expletive raising construction demonstrated by  which needs to be handled somewhat differently than the two aforementioned cr constructions
+ 
+   there seemsappears like theres going to be a big mess in this department
+ 
+in this example the two expletives are independently licensed as setting subjects at each level in langackers   terms nonetheless they are anaphorically linked note that the upper there functions as a referencepoint and the lower there as the target
+ in this regard the underlying 
+motivation behind thereraising is similar to other cr examples although our analysis shares general insights with mack  this is one major difference between her ideas and ours mack argues that examples like  are licensed via subjecttosubject copyraising sscr which is purely syntactically motivated this is because the matrixsubject there lacks aboutness topicality unlike subjects in other cr examples in our analysis 
+ is almost identical to other cr examples and the differences stem from 
+the independent source known as setting subject  as an abstract setting 
+subject there merely hosts a relationship as opposed to being a participant 
+in that relationship as a nonparticipant trajector there cannot be 
+interpreted as a topical subject
+our analysis predicts a metonymic interpretation
+ of the matrixsubject 
+in  since metonymy and referencepoint are inextricably linked phenomena 
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgereferencepoint and english copyraisingboth of them utilize the concept of one entity in order to invoke another 
+which is closely related as will be discussed in section  this type of example 
+poses challenges to the psourcebased approaches because  is acceptable without a pronoun copy even though that book is not a psource we argue that the metonymic interpretation of that book is at the heart of this construction because that book functions as a referencepoint with respect to everyone 
+should own a copy
+ 
+   that book sounds like everyone should own a copy 
+    heycock  p  landau  p  
+we illustrate several variations of epistemic and pr verb examples 
+accompanied by the challenges the examples face in a theoryneutral way  while we present the examples and the related issues we provide our approach in a more impressionistic way saving the technical analyses for a later section
+ variations of  cr and the issues
+in previous sections we introduced a typical example of cr with a brief 
+description the focus of earlier research rogers    and its subsequent traditional movement analyses moore  ura  revolved around this type of example where the pronominal copy of the matrixsubject occurs in the subject position of the complement clause research conducted more recently asudeh  asudeh  toivonen  kim  landau   mack  reports that the cr phenomenon is much more complex than earlier researchers assumed this section illustrates an array of variations in cr in conjunction with related empirical and theoretical issues
+ nonsubject cr
+though not central to their studies a number of earlier researchers heycock  lappin  rogers  noted a variation of cr in which the pronominal copy is a nonsubject as illustrated in 
+ 
+   mary appears as if her job is going well
+   the broach looks to me like abbie gave it to myma
+   bill sounds like martha hit him over the head with the record 
+potsdam and runner  p  also recognize this variation and provide a reasonable analysis by claiming that the cr predicates in  are used thematically thereby differentiating them from the example shown in  according to potsdam and runner there is no movement in  the matrixsubject is basegenerated their evidence comes from idiom chunks 
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgepark and turner  the notion of psource was introduced earlier in asudeh and toivonen   
+their position is discussed in section in the cr construction as can be found in  although some speakers 
+do not like either of the examples those surveyed unanimously agree  
+that  is much more natural than  considering the common wisdom that the fraction of the idiom chunk appearing in the matrixsubject position in  is indicative of the verb not assigning a thematic role see postal  pullum  potsdam and runners  claim is justifiable the epistemic verb appears in  does not assign a thematic role because the embedded 
+clause contains the subject pronominal copy  in their analysis the unacceptability of  is also straightforwardly explained appears assigns a thematic role to the idiom fraction the other foot because there is no subject pronominal copy  therefore the other foot receives two thematic roles leading to the clash
+ 
+   the shoe appears like it is on the other foot
+    the other foot appears like the shoe is on it 
+that said potsdam and runners  analysis leads to an incorrect 
+prediction landau  p  rightly points out that if potsdam and runner are right both your house and that noise in  and  must be thematic 
+because there is no subject copy in the complement clause in either example nevertheless your house in  is not thematically related to sounds while 
+that noise in  is in addition the pronominal copy it is obligatory in  while  is felicitous without it these differences cannot be explained in 
+potsdam and runners  analysis
+ 
+   your house sounds like nobody enjoys cleaning it
+   that noise sounds like somebody is cleaning 
+to overcome the difficulties landau  p  proposes the 
+perceptualsource copy generalization pcg simply put 
+pcg states that a copy is necessary in the complement clause if and 
+only if the matrixsubject is not a psource landaus pcg successfully differentiates  from  in  your house is not a psource so the pronoun copy is required by contrast that noise is a psource in  which makes the sentence acceptable without a pronoun copy 
+ here we need to 
+define exactly what psource means in landau in all three examples in  the speaker makes visual contact with a stimulus however there are differences among the three while the stimulus is unspecified in a in b it is the matrixsubject john landau calls this type of example a psource reading 
+c is different from the other two in that the visual stimulus is the grade sheet not john resulting in the matrixsubjects nonpsource reading
+ 
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgereferencepoint and english copyraising   a  it looks like john has failed the exam
+  b  heres john oh he looks like he has failed the exam
+  c  heres the grade sheet oh john looks like he has failed the exam 
+there is no denying that landaus  analysis shows improvement 
+over potsdam and runner  nonetheless there are two important 
+questions unanswered in landaus approach first why does the notion of psource play an important role in the cr landaus pcg can certainly make a distinction between  and  but why is a psource crucial for the absence or obligatoriness of a pronoun copy other than theoryinternal justifications
+another challenge to landau  comes from the two examples 
+borrowed from heycock  p  in these examples neither that book nor her apartment is a psource though both sentences are fully felicitous 
+without a pronoun copy  landau reports that his informants find   reintroduced here as   slightly problematic and  somewhat worse contra his report the majority of our native speakers agrees that both are fully acceptable therefore we conclude that these are indeed counterexamples to his pcg
+ 
+   that book sounds like everyone should own a copy 
+   her apartment sounds like there must be a wonderful view  
+landau is aware of this difficulty but he avoids detailed discussion of 
+this issue by claiming that the examples are metonymic he  p  states that the range and accessibility of metonymic readings in various grammatical environments is a topic in its own right which we cannot delve into here we believe this is unfortunate because metonymy is crucial in the cr construction as demonstrated in later sections
+ pr verbs
+while rogers earlier research     does not make a clear distinction between epistemic and pr verbs asudeh    and asudeh and toivonen  do the key criterion of their distinction is whether a copy pronoun is required in a complement clause 
+consider ab from asudeh and toivonen p  the pr verbs in a 
+behave like epistemic verbs in that they can alternate with an expletive variant in b
+ 
+   a  tina smellslookssoundsfeelstastes like  as if  as though she has been baking sticky buns
+  b  it smellslookssoundsfeelstastes like  as if  as though tina has been baking sticky buns
+ 
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgepark and turnerthe difference between the two types of verbs is illustrated in  
+according to asudeh and toivonen while the epistemic verbs cannot occur without a copy pronoun it is not obligatory for pr verbs
+ 
+    tina seemsappears like  as if  as though chris has been baking sticky buns
+   tina smellslookssoundsfeelstastes like  as if  as though chris has been baking sticky buns
+ 
+we believe their observation is generally right however as several scholars 
+kim  potsdam  runner  rogers  have pointed out it is not always straightforward to make a clear distinction between these two types of predicates in particular kim provides a rich set of data extracted from coca to illustrate ecr examples without pronoun copies for example as illustrated in  epistemic verbs may occur without a pronoun copy in a complement clause these examples show that asudeh and toivonens 
+ dichotomy is too strong
+ 
+   they seem as if a dragon hiding behind the cloud is drawing water 
+from the sea www newscontentcctv com last accessed  october 
+   she appeared as if the powers of life had been suddenly arrested
+    google books by john inman  robert a west the columbian magazine volume 
+ 
+asudeh and toivonen  p  are keenly aware of this problem and 
+admit that certain speakers dialect d in their classification accept sentences like  they argue that the epistemic verbs in these types of examples are used as a sort of semantically bleached pr verb from the perspective of language change the claim that the verbs seem and appear gain the perceptual resemblance meanings albeit bleached needs to be carefully assessed in dealing with grammaticalization hopper and traugott  
+p  state that there is no doubt that over time meanings tend to become 
+weakened during the process of grammaticalization it is clear that epistemic verbs exhibit less semantic complexity than pr verbs we might expect pr verbs to become more like epistemic verbs but not the other way around however the potential solution to explain  proposed by asudeh and toivonen  assumes that the direction in the general grammaticalization cline is from epistemic to pr hopper and traugott  emphasize that this direction is not impossible but this type of pragmatic enrichment is often observed in the beginnings of grammaticalization asudeh and toivonens  claim thus remains unsatisfactory unless there is clear justification to say that this type of change is in an early stage and accompanied by relevant pragmatic enrichment
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgereferencepoint and english copyraisingwe support kim  by proposing that there is no critical difference 
+between epistemic verbs and pr verbs concerning the optionality of a copy 
+pronoun without respect to the type of a verb the major function of examples  is to mentally access the embedded clause through the matrixsubject indeed epistemic verbs are fully felicitous without a pronoun copy if the contextual information allows the interlocutor to access the embedded clause through the matrixsubject which is the case demonstrated in 
+ expletives
+one interesting characteristic of epistemic verbs is that they can copyraise expletives with some limitations for example some speakers we surveyed do not accept  while others do in a traditional movementbased analysis  can be evidence for copyraising the expletive there because there is not 
+usually compatible with seems without a copy expletive in the complement clause as shown in  rogers  demonstrates that the copy of there must occur in the highest embedded subject position if not the sentence is not acceptable as in   illustrates that the expletive raising is also felicitous with the pr verb looks
+ 
+   there seems like there is a problem in this linguistics department
+    there seems like a lot of people are on the beach today 
+    there seems like john expects there to be an election
+   there looks as if there is a piece of evidence in this report to support the hypothesis
+ 
+in relation to thereraising kaplanmyrth  p  reports that the number value of there between the two subjects must be identical as in  
+otherwise the sentence is infelicitous as shown in 
+ 
+   there looks as if there is a problem
+   there look as if there are problems
+    there looks as if there are problems 
+our survey data conflict with this judgment most of our survey participants 
+rated  noticeably higher than  which they rejected in other words 
+the expletive there always takes a singular verb in the cr construction 
+  we suspect that some pr verbs tend to be used as epistemic verbs examples like i 
+where look is used in same environment as that of appear and seem is readily observed in 
+naturally occurring conversations 
+ i  mitchs father tells terry he doesnt like how it looks that shes living with stan www imdbcom last accessed  october 
+ 
+  while the mean score of  is   shows a significantly improved mean score of 
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgepark and turner  it is worth emphasizing that this is just a general tendency of pr verbs and actual uses of 
+these verbs might vary depending on speakers and their construals of a given situationour observation suggests that the two expletives are not fully identical 
+although they are coreferential in the sense that the upper there cannot occur without the lower there as illustrated in 
+the coreferential requirement between the two subjects does not apply 
+when the matrixsubject is it as seen in  and  similar to   
+ shows that there cannot occur in the matrixsubject position without its copy in the complement clause even when the subject of the complement 
+clause is it
+ 
+   a  it seems like there is a problem in this linguistics department
+  b  it seems like it is raining
+   a  it lookssounds like there is a problem in this linguistics department
+  b  it lookssounds like it is raining
+    there seemslookssounds like it is raining 
+this issue will be addressed in section  in short we will show that the 
+expletive examples fully conform to other cr examples we have discussed thus far
+ cr ssr and topicality
+now we would like to demonstrate how three related phenomena can be 
+explained through referencepoint copyraising subjecttosubject raising and topicality 
+ ecr and ssr
+we note that the epistemic verbs behave differently from pr verbs in a certain context this is based on the observation that epistemic verbs readily alternate with the it  that construction as shown in  while pr verbs tend to resist 
+this alternation as in  in this regard the cr construction resembles 
+ssr
+ 
+   a  mia seemsappears like she is leaving
+  b  it seemsappears that mia is leaving
+   a  mia smells like she was in the chicken coop
+  b   it smells that mia was in the chicken coop 
+let us consider a this cr example is very similar to the ssr example  
+where mias leaving is located on the probability scale profiled by the 
+epistemic verb in terms of langacker  p  the schematic process 
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgereferencepoint and english copyraising  note that a correspondence relation is not identical to a referencepoint relationshipindicated by be leaving in  is mias active zone with respect to the scale 
+therefore ssr exhibits a discrepancy between profile mia and active zone the process because what is located on the probability scale is not mia trajector but the process active zone the same discrepancy is observed in ecr
+ 
+   mia seems to be leaving 
+one noticeable difference between ssr and ecr is the obligatoriness of a pronoun copy when the matrixsubject corresponds to the subject of the embedded clause in ecr
+ 
+   mia seems like she is leaving 
+to illustrate the differences between  and  first note that in  the matrixsubject corresponds to the implicit subject of the embedded clause exhibiting that the two entities are identical nevertheless mia in  is not a referencepoint at least not a prototypical one because mia does not have an overtly identified target
+ though the same correspondence relation 
+applies in  mia in this example is a referencepoint in relation to its identified target she in other words in addition to the correspondence relation  
+a referencepoint relationship is established in 
+viewing the relation between a full nominal and its corresponding 
+pronominal as a referencepointtarget relation is not surprising according to van hoek   the special property of a pronoun is its self
+identification as a referencepoint in this case the referencepoint itself is 
+the easiest element to access among all those in its dominion as a result the referencepoint full nominal and the target pronoun become coreferential van hoek argues that the likelihood of a nominal being invoked as a referencepoint depends on its prominence and the likelihood of an element being included in its dominion depends on the closeness of their conceptual connection in  mia is highly prominent by virtue of being a trajector 
+of the process profiled by the clause that contains it as a highly prominent entity it is evoked as an antecedent for a pronoun here mia and the pronoun 
+she are connected through the emergence of a coherent overall conception eg the probability scale of someone is leaving is tightly associated with mia 
+under the given circumstance thus she falls within the dominion of mia
+the nonsubject ecr examples in  are similarly explained as the 
+matrixsubjects and their corresponding pronouns exhibit the coreferential relations as a referencepoint and target pair the pronoun does not need to appear in the subject position because the fundamental function of this cr 
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgepark and turnerconstruction is to establish a coherent connection between the matrixsubject 
+and the corresponding pronoun 
+   a  the lawn appeared as if someone had mowed it   coca  mag kim  p 
+  b   the forest appears as if a tornado had passed over it   coha  mag kim  p 
+ 
+on rare occasions we observe that a pronoun copy can be omitted when the speech context provides relevant information and the target pronoun is not a subject in a normal situation for example someone had mowed in a is understood as someone had mowed the lawn similarly a tornado had passed over in b is understood as a tornado passed over the forest if these are 
+indeed acceptable asudeh and toivonens  claim  that the epistemic cr construction requires a pronoun copy  needs to be reconsidered
+ 
+   a  the lawn appeared as if someone had mowed
+  b   the forest appears as if a tornado had passed over 
+at this point it is worth discussing how kims pcc accounts for examples 
+like ab kim argues that  cited from lappin  and asudeh and toivonen  respectively are unacceptable for reasons other than the lack of a pronoun copy the fact that mary is intelligent does not say any characteristic about bill neither does chriss baking sticky buns describe any characteristic about tina kim  p 
+ 
+    bill appears as if mary is intelligent
+    tina seems like chris has been baking sticky buns 
+we fully agree with kims position as shown in ab epistemic verbs are permitted in cr without pronoun copies if the matrixsubject can create a mental connection with the embedded clause in other words ab are acceptable because the matrixsubjects can function as referencepoints in relation to their corresponding targets ie embedded clauses
+the notion of referencepoint is helpful in explaining two earlier 
+examples reintroduced as  idioms tend to maintain the trajector
+landmark alignment however in the example the other foot appears like  
+the shoe is on it the original alignment of the other foot is altered due to  
+its appearance in the referencepoint position the originally nontopical 
+landmark the other foot is thus in an aboutness relation to the predication 
+in  by being a referencepoint trajector  becomes infelicitous because focal arguments of idiomatic expressions are not permitted in positions in which they express what the informationstructure literature refers to as switch topics  newly established topics see lambrecht  lambrecht  michaelis  for details
+ 
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgereferencepoint and english copyraising   the shoe appears like it is on the other foot
+    the other foot appears like the shoe is on it 
+it is also worth discussing macks  comparison of cr and ssr here 
+she states that it is debatable whether ssr even constitutes a particularly 
+appropriate comparison construction to cr p  her statement is 
+based on the observations pp  in  in the cr examples  
+the bare nominals are obligatorily interpreted as specific lappin  p  the same constraint does not apply to the ssr examples in  because the bare nominals in  can be interpreted either as kinds or existentially  
+ 
+   a  cows seemlook as if they are extremely intelligent
+  b   cows seemlook as if they are grazing in freds field
+  c  sand seemslooks as if it is composed of tiny particles
+  d   sand seemslooks as if it is blowing over the backyard
+   a  cows seem to be extremely intelligent
+  b  cows seem to be grazing in freds field
+  c  sand seems to be composed of tiny particles
+  d  sand seems to be blowing all over the backyard 
+we agree with mack that ecr subjects are licensed to serve as topics however our opinions differ concerning the sharp demarcation between 
+ssr and ecr in her analysis ecr which contains a referential matrix
+subject with a subject copy in the embedded clause is ambiguous between an ssrlike interpretation and an ecr interpretation the former is licensed by the sscr construct which is analogous to ssr but the latter 
+is licensed by the topic licensing tl construction the major 
+drawback of this demarcation is the difficulty of explaining examples like those in  which she herself admits mack  p  in her analysis 
+the bare nominals in  must obey the type constraints imposed by tl 
+yielding their specific kind reading nevertheless the bare nominals can also be licensed by sscr which is not a possible option in this case she 
+notes that she does not presently have an explanation for why this should 
+be the case p 
+ 
+   a  cows seem like theyre extremely intelligent
+  b  a man from hawaii sounds like hes the most popular candidate 
+we argue that the different degrees of referencepoint in ssr and ecr yield different predictions the major function of referencepoint is to provide the interlocutor with a mental address to reach the target that is the prototypical 
+referencepoint relationship establishes mental contact between two entities 
+in the cr examples in  both cows and a man from hawaii exhibit this prototypical function of referencepoint because they contain their overtly 
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgepark and turnerrealized targets in the embedded clauses this prototypicality strongly 
+suggests that the bare nominals should be interpreted as topics by contrast the matrixsubject of ssr does not show the prototypical property of the referencepoint because it lacks its profiled target nonetheless the matrix
+subject can still function as a referencepoint by appearing in the prominent 
+position owing to this nonprototypicality the topicality of the matrixsubject is not strongly inferred the unacceptability of b and d is unproblematically explained in our account as well the matrixsubjects in these examples are prototypical referencepoints and they exhibit a high level of topicality leading to a specific reading of the subjects this reading however conflicts with the existential semantics of the complement yielding infelicity 
+the notion of prototypicality is important in explaining expletive raising 
+although raised expletives are referencepoints and they indeed correspond to their targets they are not like the prototypical referencepoint depicted earlier in figure  as abstract settings expletives themselves become their own dominions rather than invoking a set of possible targets this non
+prototypicality blocks the topical interpretation of expletives
+ cr and the external topic construction
+the cr construction without a pronoun copy exhibits the properties of 
+external topic constructions as illustrated in  this is because the embedded clauses in ac can only be fully interpreted in relation to their corresponding matrixsubjects which is also addressed by kims pcc kim 
+ p  introduced earlier
+ 
+   a  you smell like the tube needs some cleaning
+  b  dan sounded like germany won the  world cup
+  c  mr gunderson looked like the students didnt do their homework 
+again 
+sentences ac contrast with ac where the context provided by the matrixsubject does not alter the interpretation of the embedded clause because the matrixsubject is anaphorically linked to its corresponding subject pronoun
+ 
+   a  you smell like you need to take a shower
+  b  dan sounded like he won the  world cup
+  c  mr gunderson looked like he didnt do the homework again 
+we observe a similar pattern with nonsubject cr constructions as in  
+in ac the embedded clause can be readily interpreted without the context provided by the matrixsubjects dominion
+ 
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgereferencepoint and english copyraising   a  you smell like gina made an octopus dish for you
+  b  dan sounded like germany won the  world cup for him
+  c  mr gunderson looked like his students didnt do their homework 
+again 
+for this reason we propose that examples like  be analyzed as an external topic construction in which the matrixsubject is a referencepoint 
+with respect to the embedded clause according to langacker  p  
+being a matter of sequential mental access referencepoint relationships 
+are intrinsically dynamic but have no intrinsic content following this 
+definition the relational interpretation between the matrixsubject and the 
+embedded clause is very flexible the perceptual resemblance verbs used in  are interchangeable with each other
+now we would like to revisit landaus  examples introduced earlier 
+which are renumbered as  for convenience according to landau  is not acceptable without the pronoun it while  is fully felicitous as 
+it is p  his solution is that your house in  is not a psource whereas 
+that noise in  is a psource recall that his pcg states that a copy is necessary if and only if the matrixsubject is not a psource since your 
+house is not a psource in  the copy is required
+ 
+   your house sounds like nobody enjoys cleaning it
+   that noise sounds like somebody is cleaning 
+however landaus pcg fails to explain some examples like ac although the matrixsubject your house is not a psource the sentences seem to be 
+acceptable
+ 
+   a  your house sounds like nobody enjoys cleaning at this very moment
+  b  your house sounds like nobody is helping to clean right now 
+  c  your house sounds like everybody helps with the cleaning 
+this is because your house in ac functions as a referencepoint in 
+relation to the embedded clauses where your house provides the context for 
+apprehending and interpreting the propositions made by the complements 
+this is no different from the pivotless external topic construction as in  
+the proposition in  can only be interpreted in the dominion of the oval 
+office if it figures into its content 
+   the oval office i always thought i was going to have really cool phones 
+and stuff president obamas remarks at a dnc fundraiser chicago 
+ april  
+then why is  not acceptable without it this is due to the difficulty in establishing a referencepoint relationship between your house and nobody 
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgepark and turner  langackers osr examples include sentences like to like don is easyenjoys cleaning in  the speaker attempts to direct attention to your house 
+for the specific purpose to make mental contact with nobody enjoys cleaning however without the pronoun nobody enjoys cleaning is interpreted as a general statement this genericity of nobody enjoys cleaning makes it hard for the interlocutor to establish mental contact with your house rendering  
+unacceptable by contrast  does not pose the same problem because somebody is cleaning can be interpreted with someone specific in the speakers 
+mind consequently it is feasible to establish a referencepoint relationship 
+between that noise and somebody specific is cleaning where the latter is 
+accessed via the former a closer examination also reveals that  can be rescued without it when a more specific context is provided as in 
+ 
+   your house sounds like nobody upstairs enjoys cleaning
+    context the speaker knows that the residents from the first and second floor of the addressees house are supposed to be cleaning their bedrooms that day  while the ground floor is noisy with the commotion of cleaning there is no noise emanating from above
+ 
+these examples illustrate that the difference between  and  does not reside in the psource interpretation of the matrixsubject rather the difference is owed to the varying degrees of the conceptualizers referencepoint building capability 
+ analysis
+moving from the impressionistic to the technical we provide a full cg 
+analysis of the cr construction in this section
+ subjecttosubject raising
+let us begin our analysis with an example of ssr langacker  argues that raising whether it be ssr sor or osr
+ is a metonymic shift for 
+example in the ssr sentence don is likely to leave the raising verb is likely to profiles a thing as its trajector whose location on the probability scale is mediated by a process in which it participates this schematic process is the trajectors active zone p  as a consequence the raised noun phrase don functions like a topic in that don calls to mind a process involving don the cg diagram for this example is provided in figure 
+figure  a typical example of ssr demonstrates the discrepancy between 
+active zone and profile first note that don d in the left box corresponds to the trajector in the inside box of the middle box as notated by the 
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgereferencepoint and english copyraising  typical prepositions are represented as a relationship between a thing and an entity  
+perhaps this more schematic type of structure for like and as ifthough is what led 
+some scholars bender  flickinger  to categorize them as something other than prepositionsdashed line which also corresponds to the trajector in the right box also 
+note that the hatched rectangle in the middle box is elaborated by the right box leave and the trajector in the middle box is elaborated by the left box don
+now  let us focus on the middle box to show the discrepancy  here what is 
+profiled note the thick line in the hatched box is the trajector don but the box not the trajector interacts with the probability scale then as langacker 
+argues ssr exhibits a case of profileactivezone discrepancy 
+ the case of ecr
+the epistemic cr examples with a pronoun copy exhibit a great similarity to 
+those of ssr figure  shows the cg diagram for the sentence deandre seems like he is leaving the only noticeable difference between figure  and figure  is observed in the right box as a schematic preposition
+ like 
+invokes a relationship between two entities and places the landmark on the probability scale which corresponds to that profiled by seems the implicitly invoked trajector of like corresponds to the trajector of the clause he is leaving where he is a target of the referencepoint subject deandre similar to ssr 
+this cr example illustrates a profileactivezone discrepancy in that the trajectors deandre probability scale seems is mediated by the process he is 
+leaving in which deandre also participates as a trajector the process he is 
+leaving is an active zone in this case
+next let us consider the example darin seems like jared hit him the 
+diagram of which is provided in figure  figure  is identical to figure  except that the referencepoint relationship is established between darin  
+and the landmark of the relationship profiled by hit consequently the 
+fig  don is likely to leave redrawn after langacker  p 
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgepark and turnerimplicit trajector invoked by like corresponds to the landmark of the 
+hitrelationship
+we have shown that the examples of ecr with pronominal copies are 
+similar to ssr particularly in the sense that both of them show a case of 
+profileactivezone discrepancy  the unique property of cr is an additional referencepoint relationship established between the matrixsubject and a thing whether it be a trajector or a landmark profiled in the likeclause
+ the case of the pr verbs
+figure  shows the cg diagram for the sentence derrick sounds like he is 
+playing guitar the right box is identical to that of figure  and figure  however the middle box that characterizes sounds is different from seems 
+sounds does not invoke a probability scale and this construction does not 
+exhibit a profileactivezone discrepancy 
+in figure  the trajector of sounds derrick corresponds to the trajector 
+he of is playing and both of them are anaphorically linked where derrick is 
+a referencepoint in relation to he just like figure  the implicitly invoked trajector of like corresponds to he finally the landmark of sounds is elaborated by the likeclause
+fig  the cg diagram for darin seems like jared hit him
+fig  the cg diagram for deandre seems like he is leaving
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgereferencepoint and english copyraising  x sounds like is within parentheses because the real target of erica is jean cooked salmon 
+due to the correspondence depicted in figure  what sounds does is to mediate erica and 
+jean cooked salmon so that the conceptualizer interprets the depicted event as one which is inferred indirectly we are also interested in pr verbs without a pronominal copy such as 
+erica sounds like jean cooked salmon the cg diagram for this sentence is 
+provided as figure  the crucial difference between figure  and figure  is the matrixsubjects referencepoint role while derrick is a referencepoint in respect to a thing in figure  erica is a referencepoint in relation to x sounds like jean cooked salmon
+ where x corresponds to erica this is 
+because the implicitly invoked trajector of like does not correspond to jean or salmon clauseinternally  instead it corresponds to the trajector  
+of sounds clauseexternally  as a result the preposition like establishes a 
+relationship between the clause jean cooked salmon and its trajector erica this correspondence enables the conceptualizer to interpret jean cooked salmon within the dominion of erica via the given auditory stimulus yielding 
+a rough paraphrase like considering how erica talks i guess jean cooked salmon the clause jean cooked salmon is interpreted within the dominion of erica precisely the function of the external topic construction
+now  let us revisit heycocks example reintroduced as  which landau 
+treated as an anomaly or something that does not fall within the purview of his research
+ 
+   that book sounds like everyone should own a copy  
+in our analysis the metonymic nature of that book is naturally explained just like figure  that book in  is a referencepoint in relation to x sounds 
+like everyone should own a copy with a rough paraphrase like as for that book 
+people are talking about i believe everyone should own a copy of it 
+fig  the cg diagram for derrick sounds like he is playing guitar
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgepark and turner  defining metonymy referencepoint and zone activation is a topic on its own for which 
+there is an ample amount of research please refer to geeraerts and peirsman  paradis  and ruiz de mendoza ibez   among othersthe referencepoint phenomenon can facilitate a referential shift when the 
+phenomenon is metonymic in nature in  that book illustrates a referential 
+shift from content to physical tome though being a referencepoint does not guarantee a referential shift
+ the metonymic reading of  is quite 
+expected in our analysis due to the inherent connection between metonymy and referencepoint in fact metonymy is basically a referencepoint phenomenon langacker  p 
+ expletives and setting subjects
+before we present our analyses of the expletives we would like to illustrate the characterization of there langacker a pp  langacker 
+suggests that there and the be verb be treated as an integrated unit based 
+on example  in this example people is not the logical subject of say  
+but only of dance yet the main clause verb is plural p  nonetheless the choice of the number value is plural in this case as langacker briefly notes it seems that there undergoes a semantic extension to be construed as a special type of plural this is because multiple participants are involved in the situation described in 
+ 
+   there are said to be people dancing in the streets 
+the schematic cg diagram for there is shown in figure  here there designates an abstract setting construed as hosting some relationship represented by the 
+fig  the cg diagram for erica sounds like jean cooked salmon
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgereferencepoint and english copyraisingdotted line inside of the circle in the bottom left box this corresponds to the 
+relationship profiled by be as shown in the bottom right box in the composite structure illustrated in the top box we observe the shift in focus resulting in the 
+trajector status conferred on the setting
+based on figure  figure  illustrates the cg diagram for the sentence 
+there seems like there is a book in the right box of figure  there acquires an 
+abstract setting subject status and it corresponds to the implicit trajector of 
+like the left box illustrates seems which is almost identical to that of other 
+previous examples as shown in the right box there shifts to the setting subject which in turn corresponds to the trajector of the matrixsubject as a setting subject the trajector of the matrix clause does not have to be elaborated by another thing the setting subject status fills the need for a subject this is why the copy of there is permitted only in the subject position this is where maximally generalized settings appear
+our analysis correctly predicts the unacceptability of  in  
+while there is a setting subject in the street is a location which is part of a 
+setting langacker a p  therefore the correspondence relation 
+fig  the characterization of there be redrawn after langacker a p 
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgepark and turnercannot be established between the two note that the referencepoint and the 
+target are anaphorically linked in the cr construction  is unnatural due to the depth of the correspondence the upper there corresponds to the there  
+in the deepest clause
+ 
+    there seems like people are dancing in the street
+    there seemed like john said there were people dancing in the street
+ 
+another expletive it is illustrated in figure  the expletive it also 
+functions as a maximally generalized setting subject in this case while there denotes a thinglike property  figure  is almost identical to figure  the only difference is the lack of the correspondence relationship between the trajector of seems and the trajector of the likeclause instead of corresponding the two trajectors the strategy adopted here is to confer the trajector status to the entire setting which is very close to sentences like it is raining and its hard 
+to finish this paper etc for this reason sentences like it seems like there is a 
+book are no different from it seems like john is happy etc
+then why is a sentence like there seems like it is raining unacceptable 
+this is because as a thinglike setting subject there notated by a circle needs a target which is the property of the cr construction however as a maximally abstract setting subject without a referential identity it fails to be theres target the rescue mechanism is to replace there with it yielding it seems like it is raining where two instances of it acquire their setting subject status independently without requiring any referential identity 
+fig  the cg diagram for there seems like there is a book
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgereferencepoint and english copyraisingthe maximally abstract setting subject status of it makes sentences like 
+ acceptable in an informal context 
+   you should eat the relevant pages seems like youd get more of the 
+test material in you that way   coca  fic
+   is he all right the girl said appears like it raymond said   coca  fic
+   and he was in there he was talking on the phone sounded like he was talking to susan  coca  spok
+ 
+the expletive it cannot be used as a referencepoint to any thing target nor can it build an anaphoric link with its pronominal form what it does is to provide a setting which the participants occupy  consequently the setting is often contextually understood without its explicit grammatical realization
+ conclusion and summary
+we developed a cg analysis of the cr construction and demonstrated that 
+referencepoint plays a crucial role in licensing the matrixsubject of cr whether the cr verbs are epistemic or perceptual resemblance in this sense 
+fig  the cg diagram for it seems like there is a book
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgepark and turnerour approach can be considered a singlelicensing mechanism distinct from 
+the majority view of a duallicensing mechanism
+we demonstrated that the ecr construction with pronominal copies 
+exhibits great similarities to ssr in that both of them involve a typical 
+profileactivezone discrepancy  the differences between the two cases are 
+symptomatic of the different degrees of referencepoint manifestation since cr shows a prototypical referencepoint relationship the matrix verb of cr requires an aboutness topical reading the same does not hold true for ssr because the matrixsubject of ssr is a not prototypical referencepoint we extended our analysis to cr constructions containing pr verbs demonstrating that they are not crucially different from those with epistemic verbs concerning the optionality of pronominal copies we also demonstrated that expletive raising need not be treated separately as a purely syntactic mechanism because the lack of topicality of the matrixsubject in this case is a natural consequence of expletives setting subject nature
+throughout this paper we illustrated that our analysis explains a wider 
+range of data without positing additional assumptions or mechanisms 
+moreover we argued that examples treated as marginal cases by previous 
+researchers such as possible metonymic interpretations of these constructions are at the heart of the cr construction and are naturally explained in our analysis
+references
+asudeh a  richard iii in m andronis e debenport a pycha  k yoshimura 
+eds cls  the main session vol  pp  chicago il chicago linguistic society 
+asudeh a  control and semantic resource sensitivity  journal of linguistics  
+
+asudeh a  the logic of pronominal resumption oxford oxford university press
+asudeh a  toivonen i  expletives and the syntax and semantics of copyraising 
+in m butt  t h king eds proceedings of the lfg conference pp  stanford ca csli publications
+asudeh a  toivonen i  copyraising and its consequences for perceptual reports 
+in a zaenen j simpson t h king j grimshaw  j maling  c manning eds architectures rules and preferences variations on themes by joan w  bresnan pp  stanford ca csli publications
+asudeh a  toivonen i  copyraising and perception natural language and 
+linguistic theory  
+barcelona a  reviewing the properties and prototype structure of metonymy  in 
+a barcelona r benczes  f  j ruiz de mendoza ibez eds defining metonymy in cognitive linguistics toward a consensus view pp  amsterdam john benjamins
+benczes r barcelona a  ruiz de mendoza ibez f  j eds  defining metonymy in 
+cognitive linguistics toward a consensus view amsterdam john benjamins
+bender e  flickinger d  diachronic evidence for extended argument structure in 
+g bouma e w  hinrichs gj m kruijff  r t oehrle eds constraints and resources in natural language syntax and semantics pp  stanford ca csli publications
+chung s  case marking and grammatical relations in polynesian austin tx university 
+of texas press
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgereferencepoint and english copyraisingcroft w   the role of domains in the interpretation of metaphors and metonymies 
+cognitive linguistics  
+darzi a  word order  npmovements and opacity conditions in persian unpublished 
+doctoral dissertation university of illinois at urbanachampaign
+davies w  d  dubinsky s  the grammar of raising and control a course in syntactic 
+argumentation malden ma blackwell publishing
+dprez v   raising constructions in haitian creole natural language and linguistic 
+theory  
+fujii t  cycle linearization of chains and multiple case checking in s blaho  
+l vicente  e schoorlemmer eds proceedings of console xiii pp  leiden 
+student organization of linguistics in europe university of leiden
+fujii t  cyclic chain reduction in n corver  j nunes eds the copy theory of 
+movement pp  amsterdam john benjamins
+geeraerts d  peirsman y   zones facets and prototypebased metonymy  in  
+r benczes a barcelona  f  j ruiz de mendoza eds defining metonymy in cognitive 
+linguistics towards a consensus view pp  amsterdam john benjamins
+heycock c  layers of predication new york garlandhopper p  j  traugott e c  grammaticalization cambridge cambridge 
+university press
+horn l r  a pragmatic approach to certain ambiguities linguistics and philosophy 
+ 
+janda l a  metonymy in wordformation cognitive linguistics  johnson k  quantitative methods in linguistics malden ma blackwell publishingkaplanmyrth a  the movement rule formerly known as richard unpublished ms 
+yale university 
+kim jb  english copyraising constructions argument realization and characterization 
+condition linguistics  
+kumashiro t  langacker r w   doublesubject and complex predicate 
+constructions cognitive linguistics  
+lambrecht k  information structure and sentence form topic focus and the mental 
+representations of discourse referents cambridge cambridge university press
+lambrecht k  michaelis l  sentence accent in information questions default and 
+projection linguistics and philosophy  
+landau i  this construction looks like a copy is optional linguistic inquiry  
+
+landau i  predication vs aboutness in copyraising natural language and linguistic 
+theory  
+langacker r w   foundations of cognitive grammar  vol  theoretical prerequisites 
+stanford ca stanford university press
+langacker r w  a foundations of cognitive grammar  vol  descriptive application 
+stanford ca stanford university press
+langacker r w  b grammar and conceptualization berlin  new york mouton de 
+gruyter
+langacker r w   referencepoint constructions cognitive linguistics  langacker r w   raising  transparency  language  langacker r w   concept image and symbol berlin  new york mouton de gruyterlangacker r w   cognitive grammar a basic introduction oxford oxford university presslangacker r w   investigations in cognitive grammar berlin  new york mouton de 
+gruyter
+langacker r w   on the subject of impersonals in m brdar s th gries   
+m  fuchs eds cognitive linguistics convergence and expansion pp  amsterdam 
+john benjamins
+lappin s  predication and raising in c jones  p  sells eds proceedings of nels 
+ pp  amherst ma glsa
+mack j e  information structure and the licensing of english subjects unpublished 
+doctorial dissertation yale university 
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgepark and turnermccloskey j  sells p   control and achains in modern irish natural language and 
+linguistic theory  
+moore j  turkish copyraising and achain locality  natural language and linguistic 
+theory  
+paradis c  where does metonymy stop senses facets and active zones metaphor and 
+symbol  
+park c  the role of metonymy in the interpretation of korean multiple subject 
+constructions language sciences  
+postal p  m  on raising one rule of english grammar and its theoretical implications 
+cambridge ma mit press
+postal p  m  pullum g k  expletive noun phrases in subcategorized positions 
+linguistic inquiry  
+potsdam e  runner j t  richard returns copyraising and its implications 
+in m andronis c ball h elston  s neuvel eds cls  the main session vol   
+pp  chicago il chicago linguistic society 
+rogers a  three kinds of physical perception verbs in d adams m a campbell 
+v  cohen j lovins e maxwell c nygren  j reighard eds papers from the seventh 
+regional meeting of the chicago linguistic society pp  chicago il chicago 
+linguistic society 
+rogers a  another look at flip perception verbs in j n levi p  m peranteau  
+g c phares eds papers from the eighth regional meeting of the chicago linguistic society pp  chicago il chicago linguistic society 
+rogers a  physical perception verbs in english a study in lexical relatedness unpublished 
+doctoral dissertation ucla
+rogers a  a transderivational constraint on richard in m w  la galy r a fox  
+a bruck eds papers from the tenth regional meeting of the chicago linguistic society  
+pp  chicago il chicago linguistic society 
+rosenbaum p  s  the grammar of english predicate complement constructions 
+cambridge ma mit press
+ruiz de mendoza ibez f  j  the role of mappings and domains in understanding 
+metonymy  in a barcelona ed metaphor and metonymy at the crossroads pp  berlin  new york mouton de gruyter
+ruiz de mendoza ibez f  j  metonymy and cognitive operations in r benczes 
+a barcelona  f  j ruiz de mendoza ibez eds defining metonymy in cognitive linguistics toward a consensus view pp  amsterdam john benjamins
+sag i a  signbased construction grammar an informal synopsis in h boas and 
+i a sag eds signbased construction grammar stanford ca csli publications
+stevens s s  psycholinguistics introduction to its perceptual neuronal and social 
+prospects new york john wiley 
+taylor j r  possessives in english oxford oxford university pressura h  checking economy and copyraising in igbo linguistic analysis  
+
+van hoek k  conceptual referencepoints a cognitive grammar account of pronominal 
+anaphora constraints language  
+van hoek k  anaphora and conceptual structure chicago il university of chicago 
+press
+core terms of use available at httpswwwcambridgeorgcoreterms  httpsdoiorglangcogdownloaded from httpswwwcambridgeorgcore  hekman library  calvin college  on  oct  at   subject to the cambridgechongwon park and bridget park
+cognitive grammar and english nominaliza
+tion eventresult nominals and gerundives
+httpsdoiorgcog
+received august   revised february   accepted march  
+abstract this article develops an analysis of eventresult nominals and gerund
+ives from a cognitive grammar perspective by reviewing the previous research
+we first point out that these phenomena are much more flexible than the extant
+research claims moreover widely accepted generalizations concerning the phe
+nomena are at best only partially true we demonstrate that the said flexibility
+is ascribed to two different types of construals  masslike construal accom
+panied by reification and  zoneactivation or metonymic shift event nominals
+arise without respect to the types of the nominal affixes when the relationship
+profiled by a verb takes an internal perspective result nominals arise through
+zone activation or metonymic shift in addition to the reification of the verbal
+base several grounding strategies apply to both event and result nominals
+thereby yielding different realizations of instances such as indefinite and
+possessive we show that our analysis can be systematically extended to ger
+undives which permit limited grounding methods we also demonstrate that
+vton converted event nominals are accounted for unproblematically in our
+analysis because the rise of event nominals does not rely on the nominalizing
+affixes
+keywords cognitive grammar event nominals gerundives grounding result
+nominals
+ overview
+the relationship between affixes and the argument structure of event nom
+inals such as assignment and examination in  has puzzled researchers for
+decades
+corresponding author chongwon park department of english linguistics and writing
+studies university of minnesota duluth duluth mn  usa email cparkdumnedu
+bridget park department of geography urban environment and sustainability studies
+university of minnesota duluth duluth mn  usa email bparkdumneducognitive linguistics  aop
+authenticated  cparkdumnedu authors copy
+download date    am a the constant assignment of unsolved problems is to be avoided 
+grimshaw  
+b the instructor sexamination of the papers took a long time 
+grimshaw  
+over the course of time two main approaches to this issue have emerged the
+structural model and the eventbased model in the structural model alexiadou
+ borer   embick  marantz  the presence of argument
+structure is attributed to the existence of a vp within the nominal structure this
+approach stipulates that exponents such as  ing ation  and  ment express
+nominal categories but they are different with respect to the height of affixation
+the higher the affix is in the structure the more verbal properties the derived
+noun exhibits the  ingtargets a high position resulting in event nominals
+while the vton conversion occurs at the root level as a result conversion does
+not exhibit argument structure because it does not contain verbal projections
+other affixes such as  ation and  ment can be attached either to the root or at a
+higher position
+by contrast the eventbased theory grimshaw   assumes that the
+presence of argument structure in a nominal is the consequence of the existence
+of an event structure in its base verb the grammar then stipulates that some
+affixes preserve the verbal property of having argument structure while others
+do not despite many differences concerning matters of implementation both
+models assume that there is a tight connection between argument structure and
+affixes that is nominalizing affixes are somehow responsible for the derivation
+of event nominals
+we challenge this view by arguing that the connection between the two is
+more loose than the previous models assumed affixes do not even have to be
+present in the derivation of event nominals the theoretical framework we adopt
+is cognitive grammar cg developed by langacker b   
+what we propose is that these seemingly sharp delineations concerning argu
+ment structure and affixes are merely symptomatic of the fundamental function
+of deverbal nominalization construing the verbal relationship from the inter
+nal perspective in the sense of cg we argue that deverbal nominalization
+comes to light via two different types of construals  masslike construal
+accompanied by reification and  zoneactivation or metonymic shift when
+the base event structure a relationship takes an internal perspective the
+relationship is construed as masslike and homogeneous the relationship is
+construed as an unbounded event as a direct result of the internal perspective
+at the same time this perspective makes it possible to preserve the relationship
+between two entities resulting in nominals with baseverbal arguments chongwon park and bridget park
+authenticated  cparkdumnedu authors copy
+download date    amthe other possible construal is to use the speaker s zoneactivation or
+metonymic shift ability for example though the profiled portion of destruction
+in  is the landmark of the relationship the whole reified relationship active
+zone corresponds to the trajector of the predicate was awful to see  exhibiting a
+profileactivezone discrepancy since the profiled portion is a thing noun it is
+devoid of argument structure and is construed as a result nominal
+ thedestruction was awful to see 
+grimshaw  
+if this is the case and we argue that it is the result nominal devoid of
+argument structure is not a semantic side effect occurring when event nom
+inals masslike properties are altered to those of count nouns as suggested by
+harley   rather result nominals lacking argument structure are just a
+common product of our conceptual and linguistic system
+in some sense our view is a reflection of alexiadou  and harley
+ both of whom recognize the importance of the masscount distinction
+in dealing with event nominals the gist of their claims is that event nominals
+are similar to mass nouns while result nominals are like count nouns that said
+we believe their approaches are somewhat inconclusive and speculative without
+providing the motivation behind the creation of a mass noun from a verbal base
+more importantly contra the authors claims we demonstrate that event nom
+inals can be used as count nouns as illustrated in where they are modified
+by temporal adjectives and presented with argument structure
+ count noun use of event nominals
+a these findings suggest that gallstones are a frequent late complica
+tion of heart valve replacement 
+american heart journal 
+b  application of the control pressure   produced a gradual rate of
+deformation creep probably caused by a continuous removal of
+water from the interstitial spaces as mentioned above 
+journal of rehabilitation research and development 
+c european civilization was portrayed as a continuous development of
+one civilization  whereas asian histories emerged inert and isolated as
+if they had been the debris of an atomic bomb showing no continuous
+development 
+social studies 
+these examples are extracted from the corpus of contemporary american english davies cognitive grammar and english nominalization 
+authenticated  cparkdumnedu authors copy
+download date    amd further analysis of these sequences   showed evolution of these
+genotype b strains over time which resulted in a ladderlike structure
+suggesting a continual replacement of lineages over the study period 
+emerging infectious diseases 
+these examples strongly suggest that the claim that the function of deverbal
+nominalization is to create a mass noun from its base verb is only a partial story
+the intermediate stage of eventnominal creation indeed exhibits mass noun
+like properties due to the imposed internal perspective yet this stage does not
+produce full nominals lacking a grounding element such as the this o r that
+the deverbal nominalization is completed upon the application of the grounding
+mechanism we further demonstrate that the  ingnominals are parallel to
+deverbal event nominals in that they too need to be grounded to be full
+nominals whether it be overtly or covertly
+our view is compatible with langacker s   and heyvaert s 
+ langacker  provides foundational cg work on gerundives and
+heyvaert   further develops langacker s ideas however as is often
+the case for most research their work still can be improved upon to capture a
+wider range of data for example just as grimshaw  does langacker
+  suggests that  ingnominals are mass nouns and cannot be pluralized
+we find this to be too strong a statement more importantly neither langacker
+ nor heyvaert   provide analyses of gerundives in conjunction
+with event nominals leaving event nominals a lesserexamined topic within cg
+we believe examining the work done by both formal and cognitive linguists
+helps enhance our understanding of the phenomena
+as for the data used in this article most of the examples are extracted from coca
+the corpus of contemporary american english davies  unless otherwise
+specified as such we attempt to provide the context as much as we can with the
+belief that speech contexts provide a better u nderstanding of the data concerning the
+terminology different scholars use differe nt terms in dealing with nominalization
+often leading to unnecessary confusion to avoid this we will streamline the terms
+used in this article six distinct terms will be used to describe the phenomena provided
+in   respectively they are event nominal result nominal ingofgerund poss 
+gerund accgerund and subjectlessgerund when needed the last three will be
+grouped together under the term clausal nominalizations orclausal gerundives 
+ event nominal the examination of the child s literary works  written
+over a period of four years allows for invaluable insight into the sensitivities
+of a growing precocious child 
+report review  chongwon park and bridget park
+authenticated  cparkdumnedu authors copy
+download date    am result nominal yes ms bradbury is this going to be on the exam 
+schonfield scowled 
+analog science fiction  fact 
+ ingofgerund do you think the killing of this jordanian pilot could
+somehow backfire here
+cbs  
+ poss gerund i never tired of seeing their awe at my performing the
+simplest tasks 
+til the well runs dry 
+ accgerund i imagine him performing these jobs defiantly  daring dan
+gerous molecules to trespass his flesh inviting them to step outside and
+trade blows 
+the kenyon review 
+ subjectlessgerund playing the guitar is weird when your hand comes up
+the neck the whole guitar takes off sideways because the guitar is actually
+just floating in front of you 
+science news 
+this article is organized as follows section  discusses some challenges the two
+competing models face section  demonstrates how our construalbased seman
+tic approach overcomes the difficulties left by previous models section  is
+devoted to clausal nominalizations with emphasis on their difference from ing
+ofgerunds despite certain similarities section  discusses how the two cogni
+tive linguistic notions metonymy and zone activation can be utilized to account
+for the rise of result nominals from relations and processes section  concludes
+this article by providing a summary of different types of nominalizations and
+their conceptual structures
+ challenges
+alexiadou and grimshaw   provide a core set of generalizations con
+cerning event nominals
+ generalizations of event nominals
+a only nouns which are related to corresponding verbs have argument
+structure
+b nouns that are identical in form to verbs do not generally behave like
+complex event nominalscognitive grammar and english nominalization 
+authenticated  cparkdumnedu authors copy
+download date    amc  ingnominals are always complex event nominals
+d  ation and  ment nominals are frequently ambiguous between eventive
+and noneventive result readings
+generalization a is based on examples like  my car for three weeks  where
+cardoes not exhibit an event structure due to the lack of a verbal base b
+states that vton conversions cannot be used as event nominals as shown by
+my kill of the time  as in c  ingnominals are transparent to their verbal base
+and can take obligatory arguments d is based on an observation like the
+examination of the patients took a long time vsthe examination was on the table 
+while examination in the former denotes an event structure of the base verb
+examination in the latter simply refers to the result of an event
+of these four generalizations a is unproblematic in english argument
+bearing nominals are derived from verbs preserving their base event structures
+however the other three generalizations pose significant challenges to the two
+models addressed above
+ conversion with event structure
+let us begin our discussion with the second generalization described in b
+neither model we discussed earlier the structural model and the eventbased
+model allows vton conversions a s event nominals in the eventbased
+model the preservation of the base event structure is mediated by affixes
+these nominals cannot have an event structure then simply because they are
+affixless the handling of the case of conversion becomes more complicated in
+the overall structural model in her exoskeletal model one type of structural
+model borer    argues that conversions arise by merging the
+root verb with a functional head to directly transform it into a nominal which
+is a derivation process that does not p roduce argumentbearing nominals
+another structural model distributed morphology alexiadou  embick
+ halle and marantz  harley   marantz  assumes that vto
+n conversions must already contain all they need to denote complex events
+the infelicity of the eventive reading of result nominals is then attributed to
+thepackager a la jackendoff  when the conversion occurs the packa
+ging head imposes a boundary on the conversion yielding a resultative count
+noun
+nevertheless vton conversions can be used as event nominals as illu
+strated in a g these examples are recited from bauer et al   chongwon park and bridget park
+authenticated  cparkdumnedu authors copy
+download date    am vton conversion with event structure
+a last year just before the th anniversary of sir edmund hillary s climb
+of mount everest  the sherpas wanted to put up an internet caf at 
+feet base camp on everest 
+denver post 
+b technically in pennsylvania you only have to have one license plate on
+your car so the officer was improper on his stop of this car  but while he
+stopped the car he observed in the back seat over  pounds of cocaine 
+pbsnewshour 
+c but of course the fact that he was involved or may have been involved in
+that robbery two weeks before the crime doesn t really support his murder
+of your mom two weeks later 
+indgeraldo 
+dbolivia s swap of  is tiny in comparison to the overall commer
+cial debt of  million 
+environment 
+e we need to learn to understand our technological behavior as a constant
+blend of these very different modes of consciousness 
+american heritage 
+f if you often or sometimes have any of the symptoms listed below see your
+doctor to have your breathing checked   bouts of coughing unrelated to
+colds or the frequent spread of any symptoms to the chest when you do
+have a cold 
+consumer reports 
+g  i can smell a skunk that was killed and i know how many hours
+before it was killed he said in a conversation punctuated by the fre
+quent crash of beer empties in a trash can behind the bar 
+san francisco chronicle 
+there is no denying that the conversions in bold in examples a g are
+interpreted eventively because they display full argument structure andor can
+be modified by temporal adjectives like constant orfrequent  based on smith s
+ report about conversions grimshaw  argues that germanicorigin
+vton conversions never preserve the original verbs event and argument struc
+tures according to her because germanic verbs nominalize only through zero
+affixation germanicorigin conversions cannot be complex event nominals
+however though the base verbs of all conversions in a g are indeed of
+germanic origin the conversions are all event nominals with full argument
+structure this phenomenon is not limited to the few nominals describedcognitive grammar and english nominalization 
+authenticated  cparkdumnedu authors copy
+download date    amabove rather it is a widespread phenomenon and for this reason the event
+based model faces a serious challenge
+these examples pose an issue for the structural model as well conversions
+with argument structure are not permitted in borer s exoskeletal model because
+the height of the conversion in the tree structure is too low to contain event
+structures albeit similar to the exoskeletal model it seems that distributed
+morphology dm can handle this issue by positing two zero affixes one in relation
+to a result interpretation of the conversion and the other for an eventive inter
+pretation however many scholars warn against the use of a zero form without
+rigid justification for example pullum    suggests that null consti
+tuents should not be utilized unless they meet the criteria laid out in 
+ three conditions for positing phonologically null constituents
+a the empty category is syntactically bound to another constituent in an
+unbounded dependency construction ie extraction trace
+b the empty category is anaphorically linked to another constituent ie
+null anaphor or controlled pro
+c the empty category is associated with independently justifiable semantic
+content eg a constructionspecific semantic rule such as  npthe rich n
+the potential dm solution does not meet any of the three criteria for its use of
+a zero affix yielding a lessappealing analysis in our evaluation in fact though
+working in a similar framework to dm borer  provides a strong set of
+arguments against zero affixes we will not delve into the details here but what
+she argues in evaluating dm is that there are no zero realizations categorically
+equivalent to  ation  ie conversion is not a result of a zero derivation the
+theoretical framework we adopt in this article is of course drastically different
+from borer s nonetheless we see a great similarity between cg and borer s
+model in this particular claim we don t need categoryaltering zero affixes for
+the process of nominalizatin in english given the conceptual content of a
+certain entity its category would have to be contextually determined through
+interlocutors construals this is the position that both borer and cg agree
+upon
+newmeyer  also discusses that zeroderived nominals can have argument structure he
+attributes this behavior of vton converted nominals to the historical development of the
+vocabulary of english
+of course from a cg perspective the question emerges whether a zero element should be
+posited at all for example even pullum s justifiable case of positing the empty category c
+can be avoided by assuming a simple conversion pattern chongwon park and bridget park
+authenticated  cparkdumnedu authors copy
+download date    am on the ambiguity of the affixes
+alexiadou and grimshaw s  generalization d poses some challenges as
+well first the structural model assumes that the affixes  ation and  ment are
+underspecified as a result it can be stipulated that these affixes occur in both
+root and outer cycles setting aside some potential theoretical problems with this
+type of analysis see embick  this twocycle approach does not address the
+reasons why this widespread ambiguity exists against the underspecification
+approach grimshaw  proposes that the apparent ambiguity is due to the
+twostep nominalization an event nominal is created by the affixation of  a
+tion orment step  partial nominalization followed by a null affixation step
+full nominalization that wipes out the event structure properties of the base
+these affixes are neither ambiguous nor underspecified the affixes are always
+complex event nominalizers
+we are not sure if grimshaw s twostep nominalization approach is cru
+cially different from the structural model s twocycle approach additionally
+positing another layer of zero affixation on top of the complex event nominal
+structure is hard to justify because the zero affix is neither semantically
+contentful nor syntactically bound moreover we are not sure how the elim
+ination of the internal event structure operates in step  even if we assume
+that grimshaw s approach is justifiable we cannot explain why the zero
+affix cannot be attached to  ing nominals to derive a result nominal
+alexiadou and grimshaw are aware of th is weakness and they acknowledge
+that neither the eventbased nor the structural model answers the question of
+why only these affixes allow twostep no minalizations as it turns out these
+affixes are not that special other affixes including  ingalso allow twostep 
+nominalizations
+as will get clearer in section  our position concerning the ambiguity of
+nominalizing affixes is that the two interpretations of these affixes are not
+associated with their structural properties ie affixation at different cycles or
+twostep nominalization rather they are due to the metonymic shift in nomi
+nalization or the speaker s zone activation ability it should be clear that we are
+not assuming that metonymy comes about by attaching an affix to its base on
+the syntagmatic axis suffixations are not the result of metonymic operations
+what we are assuming is as panther  and brdar and brdarszabo 
+argue metonymy is a paradigmatic operation
+note that  ingnominals can be used as result nominals as will be discussed in section cognitive grammar and english nominalization 
+authenticated  cparkdumnedu authors copy
+download date    am on  ingevent nominals and gerundives
+alexiadou and grimshaw s  generalization c is roughly accurate in
+that the  ingaffix preserves the event structure in a different piece of work
+grimshaw   firmly states that the nominal  ingaffix is unambiguous
+ingnominals allow only the definite determiner never are pluralized and
+never occur predicatively as illustrated in 
+ a the shooting of rabbits is illegal 
+grimshaw  
+b aonethat shooting of rabbits is illegal 
+grimshaw  
+c the shootings of rabbits are illegal 
+grimshaw  
+d  that was the shooting of rabbits 
+grimshaw  
+however grimshaw s statement is too strong since  ingnominals allow the
+indefinite determiner and occur predicatively this is shown below taken from
+borer 
+ a there was a capsizing of a boat by mary 
+borer  
+b there was at least one pushing of the cart to new york by john 
+borer  
+our corpusinternet search further shows that the patterns illustrated in  are
+widespread as shown with some additional examples in 
+ a thiswas bamboo splinters under the nails thiswasa beating of
+the knuckles 
+thiswas being strung up by the wrists 
+atlantic 
+similar to grimshaw  langacker   suggests that  ingnominals are mass nouns
+because they cannot be pluralized as shown in  my cat does several sleepings every day 
+however we find this type of general claim too strong because  ingnominals can be pluralized
+in a certain context as shown in since it is polyester will it be slippery will the blankets still stay
+put will the top sheet remain tucked in during sleeping or several sleepings amazoncom
+review chongwon park and bridget park
+authenticated  cparkdumnedu authors copy
+download date    amb for example every two hours there was a feeding of one and a half
+ounce of formula  and i took up the job for almost a year before i
+realized that i was close to a nervous breakdown 
+google books families living with chronic illness and disability 
+c on the second day there was a tasting of microbrews  including
+anchor liberty ale 
+samuel adams and allegheny cream 
+denver post 
+borer s  position concerning the examples in  is that grimshaw s
+statement is correct for atelic argumentbearing nominals but not for telic
+argumentbearing nominalsrelying on previous research borer 
+cappelle and declerck  filip  jackendoff  krifka  verkuyl
+ alexiadou  also proposes that the problem of pluralization of
+argumentbearing nominals has to do with unboundedness plurality unbound
+edness and mass nouns are all related she alexiadou   proposes this
+generalization in  stating that pluralization can apply to bounded nominals
+to yield unbounded nominals which is the function of pluralization since
+nominals derived from the verbs of unbounded events are like mass nouns
+pluralization cannot apply
+ a count nouns are similar to bounded events
+b mass nouns are similar to unbounded events
+though this is indeed true alexiadou s generalization is far from being novel
+langacker s cg a   provides indepth discussion on significant
+parallels between nouns and verbs as well as between nominals and finite
+clauses the reason the examples of our own creation a b are not accep
+table is relatively straightforwardly explained in cg although langacker does
+not discuss these types of examples directly the base verbs in  are all
+imperfective verbs in cg terms which is the same concept as alexiadou s
+unbounded events while imperfective verbs exhibit great conceptual similari
+ties to mass nouns both of them are unbounded perfective verbs show
+conceptual affinity to count nouns both of them are bounded the nomina
+lized verbs in  cannot be pluralized or be used as indefinite singulars both of
+which are the properties of bounded nouns this is so because the bases of
+these nouns are imperfective verbs that are more similar to mass nouns as
+opposed to count nouns this is in fact very similar to alexiadou s observation
+alexiadou   states that this pattern holds across languagescognitive grammar and english nominalization 
+authenticated  cparkdumnedu authors copy
+download date    amstated in  although she does not cite langacker s work which was more
+thorough than hers and appeared much earlier
+ a the congregation s constant doubtings of the minister lasted for
+several years 
+b the candidate s frequent believings of the new justice system
+received much
+support from various minority groups 
+langacker s position concerning the nounverb parallelism has been success
+fully adopted by various researchers particularly in dealing with english
+davidse  heyvaert    independent of langacker and cg
+a similar position is also observed in schachter  these researchers do not
+deal with event nominals directly but the main idea behind their analyses is
+identical to alexiadou s generalization
+it is worth noting that the grammatical behavior of  ingnominals such as
+pluralization is a reflection of their conceptual properties generally imperfective
+verbs like doubt profile a stable situation with no intrinsic endpoint in certain
+situations however these verbs can be construed as events that constitute a
+change indeed some imperfective verbbased  ingnominals behave like count
+nouns as in  though these situations are rare and highly contextualizedfor
+example doubting  in the context of christian belief is often viewed as a stage of
+spiritual growth mcgrath  that we believe has a soontocome terminal
+stage in this context doubting exhibits a conceptual similarity to perfective verbs
+ a and all of my lovings of birds and beasts and men and angels will be
+still greater things of joy and pride to you 
+google books the bride of the sky 
+b it tends to bereave our souls of all assurance of our salvation and all
+solid comfort which is the life of religion and makes us subject to
+continual doubtings of the love of god toward us 
+google books the baltimore literary and religious magazine 
+another disappointing aspect of alexiadou s proposal is that her analysis is not
+fully developed although her later research alexiadou et al  provides a
+more detailed crosslinguistic analysis based on number and aspect projections
+it still lacks an explanation of how and why nouns and verbs exhibit parallel
+patterns concerning boundedness
+we thank one of the reviewers who pointed out this property with the examples provided in  chongwon park and bridget park
+authenticated  cparkdumnedu authors copy
+download date    amthe examples of  ingnominals we discussed thus far are all instances of the
+socalled ingofgerunds or action ingnominalizations in terms of lees 
+other types of gerundive nominalizationshave been lessfrequently discussed
+in the context of event nominals to see the full picture of  ingevent nominals
+however we need to incorporate these other types of gerundive nominalizations
+in our analysis as previously discussed ingofgerunds as in  can option
+ally take a plural form and may be modified by an adjective the other gerund
+ive nominalizations in   contrast with  in that the subjectoid cannot
+be replaced by a determiner unlike ingofgerunds they cannot take adjective
+modifiers rather they may be modified by either an adverb or the verbal
+negator notas shown in  and  respectively all of these examples involve
+complex event nominals with full argument structure
+ virginia told us about herthe previous sightings of the blue fox 
+kaiser  
+ flo counted on them quickly finding her lost dog 
+kaiser  
+ they were shocked by his not having called me up sooner 
+kaiser  
+ smoking cigarettes is unhealthy 
+kaiser  
+perhaps one of the reasons examples like  have been discussed more thor
+oughly in dealing with event nominals may come from the assumption that they
+are different from other types of nominalizations ie the  ingin  is different
+from those of   however several scholars jackendoff  kaiser 
+yoon  yoon and bonetfarran  observe that when a language has both
+aningofgerund as in  and clausal gerunds as in   the same form often
+appears in both in our analysis we show that the instances of  ingin   are
+identical in their form and function the difference resides in different grounding
+mechanisms while  allows all types of grounding strategies   allow
+only the covert or indirect grounding method these examples of clausal nomi
+nalizations will be revisited in section  for more detailed discussion
+one phenomenon conspicuously lessdiscussed in the literature is the use of
+ingnominals as result nominals different from alexiadou and grimshaw s
+rosenbaum  categorizes four types of gerundive nominalizations ingofgerund acc
+inggerund poss inggerund and proinggerund the latter three are examples of gerundive
+nominalization in lees s categorizationcognitive grammar and english nominalization 
+authenticated  cparkdumnedu authors copy
+download date    am generalization c  ingnominals can be used as result nominals as
+shown in 
+  ingnominals as result nominals
+a youre saying that kaille used his witchery on gordon that s why i did
+noti sensed a conjuring  kaille mariz said 
+dean man s reach 
+b thegathering at the hall was a rare display of collective political assertion
+by the rohingya in malaysia many of whom wore red tshirts proclaiming
+their ethnicity 
+new york times 
+c this reduces the risk of contamination from rotting leaves or droppings
+from birds and insects in the trees 
+mother earth news 
+d although medicare now reimburses the cost insurers highmark and upmc
+health plan do not cover the screenings  so they are not being used
+regularly 
+pittsburgh postgazette 
+these examples show that alexiadou and grimshaw s generalization c needs
+to be reconsidered some nominals created with the  ingaffixation are not
+complex event nominals we observe that the use of  ingnominals as result
+nominals is often accompanied by a metonymic shift in its function the  ing
+affix is similar to other affixes such as  ation and  ment  these two groups are
+indeed similar but each is distinct in their own right whereas  ingnominals
+tend to gain a new result meaning through metonymic shift result nominals
+with other affixes emerge through either zone activation or metonymic shift the
+difference between these two processes and their applications in facilitating the
+creation of result nominals will be discussed in section 
+ a construalbased semantics
+in the previous section we discussed the challenges that the two major models 
+event and structural face concerning conversion affixal ambiguity and the  ing
+nominals we will illustrate how our analysis overcomes these challenges in this
+section in doing so our presentation will be given in the reverse order ingof
+nominals affixal ambiguity and conversion this is because as will be discussed
+ingofgerunds exhibit more general patterns than the other two cases chongwon park and bridget park
+authenticated  cparkdumnedu authors copy
+download date    amgrounding and the case of ingof gerunds
+we will focus on ingofgerunds in this section as illustrated in  postponing
+the discussion of clausal  ingnominalizations until section 
+ ingofgerunds
+a screenwriter jason hall s recounting of his tricky meeting with kyle and
+subsequent talks with kyle s widow taya are as engaging as anything in
+the film 
+people 
+b it may even be a time for the courts to allow organizing of lower manage
+rial ranks 
+hospital topics 
+c so there s a lot of things that are below the radar of police a lot of
+signaling and intimidation that s going on all the time and then there are
+occasional assaults and very very occasional killings of witnesses 
+npr 
+d at prete plaza the program will include the reading of a mayoral
+proclamation 
+austin american statesman 
+ea singing of the state song concluded the ceremonies 
+american indian quarterly 
+stated in cg terms a verb profiles a process which is a complex relationship
+that develops through conceived time and is scanned sequentially along the
+axislangacker   that is the base verbs in  all profile processes
+participles then are elements that invoke a certain vantage point for viewing
+the processual content more specifically  ingin a e provides an internal
+vantage point by imposing a limited immediate scope is in the temporal
+domain the consequence of the imposition of is is the exclusion of the begin
+ning and end of the verbal process yielding an atemporal masslike construal
+which is shown in figure  the ellipses   in this figure indicate the viewing of
+the focused states as effectively equivalent here we would like to clarify the
+two cg notions immediatemaximal scope and atemporal construal the verb is
+viewed as a succession of events evolving over time which conceptually
+includes starting and end points this whole viewing frame is called a maximal
+scope where the entire bound event is included in the frame viewers however
+put a smaller portion relevant in a discourse context onstage  this onstage cognitive grammar and english nominalization 
+authenticated  cparkdumnedu authors copy
+download date    amregion is called an immediate scope although the maximal scope contains the
+bounded event the immediate scope imposed in figure  excludes the begin
+ning and end points of the bounded event hence this construal becomes
+atemporal
+returning to the imposition of is one important point is the choice of the
+term masslike  the result of the imposition of is shown in figure  clearly
+resembles a mass noun shown in figure  as it is internally homogeneous
+and brings the processrelationship into immediate and exclusive focus both
+figures  and  show a case of an unbounded element in which its boundary
+exists outside of the speaker s focus of attention ie is here domain of
+instantiation is equal to space
+yet the result of the is imposition in figure  does not create a noun because
+what is profiled is still a relationship not a thing through the additional higher
+figure  the imposition of is redrawn after langacker  
+this is slightly different from langacker s original figure in his figure the lmis not marked
+technically the lmsquare can be represented as a circle because the relation is between two
+things but we left it as it is
+figure  mass noun redrawn after
+langacker   chongwon park and bridget park
+authenticated  cparkdumnedu authors copy
+download date    amlevel organization conceptual reificationit becomes a nounnote however
+that noun is a type specification as opposed to an instance a noun becomes a
+nominal through grounding which is needed to direct the speaker s attention to
+the intended discourse referent it is important to stress that while nouns are
+classificatory grounded nouns nominals are referential without grounding
+interlocutors cannot make a distinction between the talkedabout member and
+the rest of the members in the same category the most obvious grounding
+method is to utilize an overt grounding element which is the case in d and
+e in d  ingimposes the is on the process profiled by the base verb read 
+yielding a masslike interpretation then reading combines with a mayoral
+proclamation  since reading loses its verbal property by being atemporalized
+and reified it cannot directly combine with another nominal this is resolved by
+the preposition of which invokes a schematic relationship between two things
+when reading and a mayoral proclamation are combined via of the internal
+structure of reading is still visible and the landmark is elaboratedbymayoral
+proclamation  yielding an objectlike interpretation of the base verb read  the
+outcome reading of a mayoral proclamation  however is not a full nominal as it
+still lacks grounding the grounding in d occurs then through the use of the
+definite article the example e shows a slightly different case with the
+indefinite article a in e the is is imposed on the process profiled by the
+base verb sing followed by the combination with the state song via the preposi
+tion of in this case the result singing of the state song  is construed as a count
+noun by expanding the is as in figure  rendering the boundary visible within
+the is as a count noun it can be grounded by the indefinite article
+not every grounding method is overtly realized grounding can be achieved
+covertly or indirectly mass nouns and proper nounspronouns are examples of
+this though they differ from each other while mass nouns are grounded by
+directly shifting the speaker s attention from a type to an instance proper
+nounspronouns are intrinsically grounded without any kind of shifting
+a represents a case of indirect grounding which is often achieved with a
+possessive here recounting of his tricky meeting with kyle is indirectly grounded
+via the intrinsic grounding of jason hall  in this case jason hall corresponds to
+when reification occurs as is often the case with nomina actionis  a general tendency for
+metonymic shift is observed from the activity in general to a specific single act of performing
+the activity brdar and brdarszabo   this type of metonymic shift however will be
+not be discussed in this article
+in other words as heyvaert   argues ingdoes not create a noun but preserves
+the verbal character of the verb it attaches to 
+elaboration is a cg term which is roughly the same as the headcomplement or the subject
+predicate combination in a traditional sensecognitive grammar and english nominalization 
+authenticated  cparkdumnedu authors copy
+download date    amthe trajector of the relationship profiled by the base verb recount  as a conse
+quence it is interpreted as the subject of the relationship which is depicted in
+figure  note that figure  shows the result of the indirect grounding of
+recounting viajason hall  in which the landmark of the reified process is
+elaborated by his tricky meeting with kyle htmin this figure the is portion
+is identical to that of figure  different from figure  however the internal part
+of the is is reified as indicated by the bold ellipsis which is the target t of the
+figure  count noun redrawn after
+langacker  
+figure  cg descrip
+tion of jason hall s
+recounting of his
+tricky meeting with
+kyle
+for a discussion on ofin cg please refer to langacker    and langacker  chongwon park and bridget park
+authenticated  cparkdumnedu authors copy
+download date    amreference pointr jason hall jh as a reference point jh functions as a
+mental address to access the reified event t as for the notations used in
+figure  the grounded element is indicated by the circled g d stands for
+dominion which is defined as a set of potential targets the bold circles denote
+profiled things to which attention is directed
+the pluralized form killings in c functions as a mass noun grammati
+cally and thus can be grounded covertly the difference between c and e
+is illustrated using cg diagrams in figure  for the simplicity of exposition
+only the final stages of the compositions are shown and trajectors and land
+marks are not labeled figure a shows that each instance of killing of witnesses
+is grouped to be a plural nominal the group of instances is grounded covertly
+in this case figure b shows the grounding of one particular instance singing
+of the state song with the indefinite article
+figure  plural mass and count noun interpretations of the  ingnominal
+a very rough analogy of reference point would be bird watchers looking for falcons in a
+densely wooded area one bird watcher spots a bird immediately and notifies his companion
+the companion not seeing the bird right away would ask exactly where the bird is since the
+heavily wooded area provides many places for a falcon to perch the first bird watcher would
+then likely provide some kind of reference point for the companion perhaps with the aid of a
+preposition phrase the bird is near the big rock  in this example the big rock is a reference
+point the bird is the target and other potential targets form a dominioncognitive grammar and english nominalization 
+authenticated  cparkdumnedu authors copy
+download date    amfor the purpose of comparison figure a illustrates grounded plural nouns such
+asbooks  and figure b depicts a grounded mass noun according to langacker
+  bare plural nouns resemble mass nouns for this reason langacker
+  calls plural nouns plural mass nouns and mass nouns nonplural mass
+nouns  the difference between the two is what they foreground while mass nouns
+foreground the perceived continuity of the m ass at the expense of constitutive entities
+as notated by dotted inner circles in figu re b plural nouns foreground the
+whole through individual elements notated by solid inner circles in figure a
+in sum the  ingaffix imposes an is on the profiled process of the base verb which
+results in a masslike entity after undergoing reification this entity needs to be
+grounded to be a full nominal if it is grounded covertly it is indeed construed as
+a mass noun on the other hand it can be construed as a count noun when is is
+zoomed out when this happens the entity can be grounded by the indefinite
+article alternatively it can be grounded indirectly in the possessive construction
+grounding by the definite article can occur to both massplural and count con
+struals the count noun uses of  ingevent nominals are observed when the base
+verbs of the reified nominals are perfective event nominals of the  ingtype
+created from imperfective verbs generally resist the count noun construal
+ the case of event nominals
+event nominals like examination and replacement behave very similarly to the
+ingofgerundives just like  ing the nominalizing affixes impose is on the
+figure  plural vs mass noun redrawn after langacker  
+the grounding notation is our modification chongwon park and bridget park
+authenticated  cparkdumnedu authors copy
+download date    amprocess profiled by the base verb and the result of the is imposition is an
+atemporalized masslike entity all five types of grounding methods used for  ing
+nominals are observed in event nominals as well as shown in 
+ event nominals
+a the board found dr nguyen failed to meet the standard of care in his
+treatment of a pediatric patient with a fractured wrist 
+houston chronicle 
+b these difficulties do not lead to discouragement or abandonment of the
+effort for ultimate unity for we hope for and believe in help from above 
+journal of ecumenical studies 
+c assignments of commercial deposit accounts are governed by revised
+article  although assignments of deposit accounts in consumer trans
+actions remain excluded  
+aba journal 
+d the novelty of this study lies in the demonstration of the influence of
+classlevel homophobic attitudes  not individual homophobic attitudes 
+school psychology review 
+e however a computation of effect sizes using the formula indicates
+moderate magnitudes ranging from  to  
+college student journal 
+event nominals can also be grounded by demonstratives which is different from
+what previous researchers have claimed grimshaw  zucchi  as illu
+strated in 
+ event nominals grounded by demonstratives
+athat examination of management practices at dozens of usbased
+corporations became a runaway hit  million copies were sold making it
+one of the most widely read business titles of all time 
+nprmorning 
+b  the artist had to attempt to reproduce that destruction of usevalue
+and traditional intelligibility that was at the origin of the experience of
+shock 
+october 
+c i hope that this arrangement of  democratic senators and 
+republican senators can be made to work for the american people and
+i genuinely believe that it can  
+us news  world report cognitive grammar and english nominalization 
+authenticated  cparkdumnedu authors copy
+download date    amalthough previous research focused on the two affixes  ation and  ment 
+we observe the same event nominal formation with the lessproductive affixes
+al ance  and  ureas in 
+ event nominals with less productive affixes
+aa refusal of such a request should be interpreted as a warning sign that
+your new renter has something to hide 
+black enterprise 
+b but extant sources suggest that his performance of sinners was part of a
+weeklong series of traveling revival meetings that were promoted by a half
+dozen local clergymen 
+church history 
+c the west s standoff with russia over its seizure of crimea  analysts and
+former administration officials said could complicate american efforts to
+curb iran s nuclear program  
+new york times 
+although the basic function of these affixes is identical to that of  ing ation
+ment and  ingare different in three notable ways first  ingis more flexible than
+ationment in that it can impose is either at the lower or at the higher level
+the imposition of is by  ingcan occur either before or after the elaboration of the
+landmark of the relationship profiled by the verb as shown in a and b
+respectively by contrast ationment exhibit a restricted pattern by allowing
+the imposition of is at the lower level only before the elaboration of the
+landmark as in  all examples in  and  are our own
+ a jane s singing of the song shattered all the glass in the conservatory 
+bjane s singing the song shattered all the glass in the conservatory 
+ a jane s examination of the newly discovered artifacts took several
+months 
+b jane s examination the newly discovered artifacts took several
+months 
+second as we demonstrated in section  and elsewhere the count noun use of
+ingevent nominals is dependent upon the base verbs perfectivity this depen
+dency is not observed among event nominals created with the aforementioned
+nominal affixes if the affixation is permissible in english morphotactics the
+resulting event nominals may be used as either count or mass nouns the base chongwon park and bridget park
+authenticated  cparkdumnedu authors copy
+download date    amverbs of appreciations detestation  and denials in  are all typical imperfec
+tive verbs but they all can take a plural or an indefinite singular form
+ a  the dead do care at all for their name and fame then how must the
+souls of shakespeare and webster have been stirred after so long
+converse with things that stopped their ears whether above or below
+the soil at his exquisite appreciations of them 
+raritan 
+b expulsion of those with sexual differences from the sacred precincts of
+the church and expunging their acts and gifts from our institutional
+memory may express a detestation of intrinsic evil  but it also carries
+with it an effective denial of common humanity 
+america 
+c later in the year charles dolan a former national propagandist for the
+buf claimed that mosley s previous denials of antisemitism had
+always been for political reasons only 
+history today 
+the last difference between these affixes and  ingis observed when they create
+result nominals as we already mentioned in section  while  ingnominals
+tend to gain a new result meaning through metonymic shift result nominals
+with other affixes emerge through either zone activation or metonymic shift
+this issue will be revisited in section 
+ the case of conversion
+as explained in section  both the eventbased and the structural models must
+block vton conversions but they are frequently observed imposing is on the
+process without the help of an affix like  ingis nothing unusual let us consider
+the examples in  from dancygier and sweetser  and langacker a
+ a ive got cat all over my skirt 
+dancygier and sweetser  
+b after i ran over the cat with our car there was cat all over the driveway 
+langacker a 
+normally catis a count noun and is therefore bounded within the immediate
+scope in the domain of instantiation as described in figure  in a as
+dancygier and sweetser  state one might imagine for example largecognitive grammar and english nominalization 
+authenticated  cparkdumnedu authors copy
+download date    amaccretions of shed cat fur on my skirt more than a few individual countable
+hairs  langacker s wellknown and somewhat gory example b can be
+explained in a similar way after the accident the poor cat is not identifiable
+anymore and he became formless and boundaryless using count nouns in the
+mass noun context alters the meaning of the count noun which becomes
+possible by zooming in the is the result here is that the focus of viewing is
+confined to the is excluding a boundary from the specific focus of attention
+one important matter here is that this alteration of the focus of attention does
+not have to be accompanied by grammatical elements conversion is another
+example of semantic alteration without grammatical encoding
+ clausal nominalizations
+in this section we extend our analysis of event nominals to clausal nominaliza
+tion we demonstrate that the function of  ingin clausal nominalizations is
+identical to that of ingofgerunds the crucial difference between ingofger
+unds and clausal nominalizations comes from the grounding methods the two
+types of gerundives adopt we demonstrate that clausal nominalization is com
+pleted by indirect grounding or by the construal of the reified event as the
+maximal extension
+ some background on clausal nominalizations
+for the sake of convenience we reintroduce kaiser s three types of clausal
+nominalization examples with new numbers here
+ flo counted on them quickly finding her lost dog 
+kaiser  
+ they were shocked by his not having called me up sooner 
+kaiser  
+ smoking cigarettes is unhealthy 
+kaiser  
+the gerundive nominalizations described above have been extensively dis
+cussed from diverse theoretical perspectives eg generative linguistics abney chongwon park and bridget park
+authenticated  cparkdumnedu authors copy
+download date    am baker  yoon  hpsg malouf  amorphous morphology
+kaiser  dm alexiadou et al  word grammar hudson  cogni
+tive linguistics heyvaert    and formal semantics chierchia
+ portner  zucchi  among many others all of these proposals
+provide valuable insights on the gerundive phenomena though due to space
+constraints we cannot discuss them in depth we note that two research
+proposals alexiadou et al  and heyvaert   are particularly
+germane to our proposal although these authors do not cite each other s work
+both proposals treat gerundives as similar to mass nouns which is also our
+view in their dmbased approach alexiadou et al propose a hierarchy of
+functional projections that include nominal num class and verbal asp vp
+alexiadou et al s approach to gerundives is thus nominaloververbal which is
+the most widely accepted view by contrast working from a functional perspec
+tive heyvaert  adopts halliday s  notion of rankshift in this view
+gerundives involve the shift of a clausal configuration of functions from clausal
+to nominal rank while maintaining their internal clauselike structure
+furthermore based on schachter  heyvaert proposes a nominal analysis
+of gerundives by claiming that gerundive nominalizations fit in with the nominal
+paradigm internally her evidence comes from the subcategories of gerundives
+the system of gerundive nominalizations draws on two basic nominalconstruc
+tional options viz those of specific definite or indefinite and nonspecific viz
+generic reference heyvaert   although we believe heyvaert s choice
+of the words a nominal analysis of gerundives is somewhat of an overstate
+mentwe are generally in support of heyvaert in that we also believe specifi
+city plays an important role in understanding different types of clausal
+gerundives
+that being said we believe heyvaert s analysis needs more clarification in
+dealing with examples like heyvaert   argues that the presence
+of the oblique nongeneric subject youturns the gerundive nominalization into
+the conception of a specific instance rather than a type and the downranked unit
+you being a cowboy fan an old boy from arkansas functions as an inherently
+this is because no matter what gerundives exhibit both verbal and nominal properties to
+some extent gerundives are different from prototypical mass nouns also we are not sure how
+the object of the base verb is treated in her nominal gerundive approach she argues that the
+combination of the object with the verb does not create an instance this is true and we agree
+with her but the object is still the object of the verb elaborating the landmark of the process
+profiled by the verb in terms of cg if so there exists a verbal property at least at this stage
+alexiadou et al  do not include accgerundives in their discussioncognitive grammar and english nominalization 
+authenticated  cparkdumnedu authors copy
+download date    amdefinite nominal this means as far as definiteness is concerned  is
+identical to  which is also identified as an example of the specific subcate
+gory of gerundive nominalizations exhibiting inherently definite nominal
+properties
+ were behind you because you re a winner and a champion appreciate you
+being a cowboy fan  an old boy from arkansas 
+heyvaert  
+ magic johnson s having the aids virus is just as great a national
+catastrophe as the assassination of president kennedy and the challenger
+disaster 
+heyvaert  
+this is true when the gerundives appear in the subject position however when
+they appear in the complement position with a nonfactive matrix verb they
+allow different interpretations let us consider examples   from portner
+ in these examples as portner demonstrates only the a examples with
+the poss gerundive have a familiarity presupposition in the b examples it is
+not necessary that the familiar situation of john coming to visit mary be actual
+put differently when the accgerund occurs with a nonfactive matrix verb in
+the complement position it can be interpreted as nondefinite while poss 
+gerunds are always definite without respect to factivity or their syntactic
+position
+ a mary didn t discuss john s coming to visit her 
+portner  
+b mary didn t discuss john coming to visit her 
+portner  
+ a if mary contemplated john s coming to visit her  she didn t tell me 
+portner  
+b if mary contemplated john coming to visit her  she didn t tell me 
+portner  
+ a its unlikely that mary discussed john s coming to visit her 
+portner  
+b its unlikely that mary discussed john coming to visit her 
+portner   chongwon park and bridget park
+authenticated  cparkdumnedu authors copy
+download date    ama similar observation is found in kaiser  according to her only
+examples like apresuppose the existence of the events they denote
+while a allows only one interpretation of i heard a false rumor which
+was in some way related to the fact that john smoked stogies ie john smoked
+stogies b has another interpretation in addition to that i heard a false
+rumor that john had smoked stogies ie it is not necessarily the case that john
+smoked stogies
+ a i heard a false rumor about john s smoking stogies 
+b i heard a false rumor about john smoking stogies 
+in relation to the presupposition issue the difference in case marking between
+poss gerunds and accgerunds should not be treated lightly this is because this
+formal difference is not accidental it is a close reflection of the functional
+differences these issues need to be incorporated to provide a fullfledged
+picture of gerundives
+ a cgbased analysis of clausal nominalizations
+our proposal concerning clausal nominalizations is summarized in the follow
+ing the function of  ingis identical to that of ingofgerundives the  ingused in
+clausal nominalization imposes is on the profiled process as well the difference
+is that the is is imposed at a later stage in the case of clausal nominalizations
+after the landmark of the verb is elaborated by its object this is so far basically
+the same as langacker s  treatment of gerundives the resulting relation
+ship of the is imposition can turn into a noun by reification this is a noun in
+the sense that it specifies a type not an instance as a type specification it
+needs to be grounded to be a full nomimal the important part of our proposal
+resides in the grounding methods adopted in clausal nominalizations when an
+event denoted is factive the reified process is grounded indirectly by the
+possessive when an event is nonfactive the speaker has another option ie
+grounding the reified entity locationally the gerundive portion in b john
+smoking stogies  may thus be interpreted as in john s domain of experience
+there exists a reified event in which john participates as a trajector where the
+reified event is nondefinite note that the nondefinite construal is available
+kaiser s original examples are i heard a false rumor about bill getting fired and i heard a false
+rumor about bill s getting fired  we slightly modified her original examples to include the
+landmark of the base verb in the gerundivecognitive grammar and english nominalization 
+authenticated  cparkdumnedu authors copy
+download date    amonly when the gerundive appears with the nonfactive matrix verb the default
+construal of these gerundives is still the definite interpretation this means that
+b can be identical to a in their definitenessrelated predictions under a
+nonfactive context in this case the only difference between the two becomes
+the case pattern of the subjectoid which will be explained later in this section
+to illustrate what exactly we mean by locational grounding we first need to
+discuss the location and the existence schemas figure a illustrates the location
+schema that roughly translates to an entity is located in a delimited region 
+figure b which is the existence schema is interpreted as an entity is located
+in the domain of existence  not surprisingly these two schemas exhibit great
+similarities
+the location schema figure a can be extended to the locative schema
+depicted in figure  where r refers to reference point t target c conceptualizer
+figure  location and existence redrawn after langacker  
+figure  the locative schema redrawn
+after langacker   chongwon park and bridget park
+authenticated  cparkdumnedu authors copy
+download date    amand d dominion this figure is a representation of the situation in which the
+target occupying a location is accessed via a reference point
+perhaps the best example that can be analyzed by the locative schema is
+the japanese example in  where magoga grandchild matches the target
+t in the locative schema and iruexist represents the existence relationship
+indicated by the bold horizontal line on the right side of t at the lower level of
+organization not shown here magoga is grounded independently of
+watashiniwa ias the trajector of the clausally grounded existence relation
+ship then magoga iru combines with watashiniwa via the locative schema
+to yield the final composite structure in  where only magoga iru is
+profiled
+ watashiniwa magoga iru
+itotop grandchildsubj exist
+to me there is a grandchildi have a grandchild 
+langacker  
+the important observation is the independence of the target  mago  in ground
+ing different from the possessive construction a case of the regular reference
+point construction the locativeschemainduced structure does not utilize the
+indirect grounding method
+with this background we return to the accgerundive example b which
+is diagrammed in figure  the grounding strategy adopted here is the loca
+tional grounding in which the reified event is grounded independently of john 
+figure  accusative
+groundingcognitive grammar and english nominalization 
+authenticated  cparkdumnedu authors copy
+download date    amin other words the reified event is not grounded via the intrinsic grounding of
+john  as a consequence the reified event does not have to be definite
+nonetheless john corresponds to the trajector of the relationship profiled by
+the verb yielding the subjectoid interpretation of john  although it is accusative
+casemarked the order of operations is critical here the is was imposed only
+after the elaboration of the landmark  stogies  of the relationship profiled by
+smoke  owing to the later stage of the is imposition this construction naturally
+exhibits more verbal properties than ingofgerundives in figure  the refer
+ence point john  is a landmark in relation to the trajector smoking stogies  this is
+so because as shown in the rough rephrase above john does not directly
+participate in the existence relationship what exists is the reified relationship
+notjohn 
+figure  illustrates a typical indir ect grounding strategy that is applied
+to a the reified event smoking stogies is rounded indirectly by john as
+shown by the circled g which becomes possible owing to john sb e c o m i n ga
+reference point trajector in relation to smoking stogies  this is therefore
+identical to the ingofdepicted in figure  though the compositional path
+ways of the two figures are different in figure  smoke and stogies
+are combined before the imposition of is to yield the structure which is
+different from figure  regardless john ss m o k i n gs t o g i e s functions like an
+inherently definite nominal owing to the definite grounding of the reified
+event through john 
+figure  possessive grounding chongwon park and bridget park
+authenticated  cparkdumnedu authors copy
+download date    amwhile the subjectoid is realized with the possessive marking by being a trajector
+of a reference point relationship in figure  it is realized with the accusative
+case in figure  this is because the subjectoid in accgerundives is a landmark
+which receives the default case in english as macfadden  and schtze
+ demonstrate the accusative case plays this role
+in both cases the internal structures are wellpreserved as shown by the
+depiction that the reference point corresponds to the trajector of the relationship
+profiled by the base verb the preserved internal structure of clausal gerundives
+leads to the interpretation of a set of reified events before grounding or a
+specific reified event after grounding owing to this preserved eventivity
+clausal gerundives are modified by adverbs this is not a surprising conse
+quence particularly considering the traditional treatment of adverbs for exam
+ple in neodavidsonian semantics davidson  parsons  adverbs are
+interpreted by predicating them not of an individual or a property but rather of
+an event as a result a sentence that includes an adverb is interpreted as an
+event that has an adverbial property this view tells us that adverbial modifica
+tions are more likely semanticsbased as opposed to grammatical category
+based our treatment of clausal gerundives as reified events naturally explains
+adverbial modification of gerundives in that what the adverb modifies is an
+event morzycki   illustrates the parallelism between adverbs and
+adjectives in the davidsonian semantic approach if we interpret his position
+in cg terms adverbs modify relationships while adjectives modify things since
+reified gerundives are not typical things with their internal structure fully pre
+served with their objects fully realized for instance adjectival modification is
+often not preferred or not permitted at all
+concerning accgerundives taylor    cautiously suggests
+that the accusativemarked subjectoid might be due to the ungrounded status
+of the nominalized clause as an ungrounded clause the gerundive lacks an
+intrinsic aspect of subjectverb agreement and the subjectoid is realized as a
+nonnominative form the default case in our terms although his suggestion is
+reasonable there are a couple of problems in taylor st r e a t m e n to f accger
+undives first the nominalized clause does not need a clausal grounding that
+involves a tense marking on the finite verb because it is a full nominal
+so taylor s clausal groundingbased suggestion is somewhat irrelevant to
+this case
+second as a nominal type specification nominalized clauses need to be
+nominally grounded instead of clausally in the earlier example a for
+instance the nominalized clause smoking stogies needs to be nominally
+grounded by john s similarly smoking stogies needs to be nominally grounded
+in b in both cases the form and function of smoking stogies is identical thecognitive grammar and english nominalization 
+authenticated  cparkdumnedu authors copy
+download date    amdifference resides in the different nominal grounding mechanisms which we
+explored already in this section
+ subjectless gerundives
+before moving on we would like to discuss the third type of clausal nominaliza
+tions subjectless gerunds as described earlier in  heyvaert  provides
+an informative categorization of these summarized in 
+ heyvaert s categorization of subjectless gerundives
+a specific
+i retrievable subject
+ex had decided to boycott me for the mere fact of having written
+a book on franco 
+heyvaert  
+ii retrievable and reinsertable subject
+exof course i regret getting pregnant 
+heyvaert  
+b nonspecific generic
+i controlled subject clausal type specification is instantiated
+exhaving an ugly wife makes a man mean 
+heyvaert   postal  
+ii true subjectless clausal type specification
+exeating vegetables is healthful 
+heyvaert  
+according to heyvaert while ai and aii denote a specific and single
+instance of a process type bii denotes a clausal type specification in the
+latter case no single event reading is possible bi allows either a generic or a
+specific readingwe agree with heyvaert in that ai and aii have specific
+interpretations particularly when the subject can be retrievable and reinserta
+ble whether the process is anaphoric or exophoric this is naturally accounted
+for in our analysis based on grounding in ai and aii the gerundives are
+indirectly grounded by the retrievable and reinsertable subject thereby leading
+to proper nounlike definite descriptions however we believe bi and bii
+need more clarification
+a specific reading is possible when the subject is retrievable chongwon park and bridget park
+authenticated  cparkdumnedu authors copy
+download date    amlet us consider bii first in which eating vegetables is a clausal type
+specification in terms of heyvaert if this is the case how does this function as a
+full nominal abney    provides several syntactic tests to prove that
+true subjectless gerunds behave like full canonical nominals we provide the
+same set of tests with the madeup examples in  
+ i learned about eating vegetables  object of a preposition
+ iseating vegetables healthy subjectauxiliary inversion
+ i believe that eating vegetables should be more encouraged  subject of
+embedded sentence
+ perhaps eating vegetables has more health benefits we are unaware of 
+subject following initial adverb
+ eating vegetables i can t abide  topic position
+ itseating vegetables that i can t abide  cleft position
+bi faces a similar problem heyvaert states that bi can be interpreted
+specifically or generically this is because the subject of the gerund having an
+ugly wife can be recovered as a specific person or it can just denote a type
+rather than an instance in other words heyvaert generally equates genericity
+with a type and specificity with an instance however genericityspecificity
+and typeinstance are separate notio ns consider the examples in  from
+krifka et al  the nominals the potato and potatoes in a and b
+refer to a kind as opposed to some individual potatoes or a specific group of
+p o t a t o e s    c i ss l i g h t l yd i f f e r e n ti nt h a ti ti sag e n e r i cs e n t e n c et h a t
+expresses a generalization about pota toes in all three cases the subject
+nominals express genericity even though they are grounded instances
+genericity does not require a type speci fication instances can express gener
+icity too the difference between the in stances in  and others is actuality
+as langacker   describes instead of being actual an instance of a
+type can be conjured up for a special purpose one of them being a general
+statement  the instances in  are all conjuredup entities to express gen
+ericity which makes them distinct from typical instances nevertheless they
+are clearly different from type specifications concerning their grounding and
+meaning they are indeed instancescognitive grammar and english nominalization 
+authenticated  cparkdumnedu authors copy
+download date    am athe potato was first cultivated in south america 
+krifka et al  
+bpotatoes were introduced into ireland by the end of the th century 
+krifka et al  
+ca potato contains vitamin c amino acids protein and thiamine 
+krifka et al  
+our solution for true subjectless gerunds is to adopt the notion of maximal
+extension langacker defines maximal extension as follows
+maximal extension reflects a number of conceptual phenomena   through grouping
+and reification conceived instances are pulled together and viewed as a unitary entity
+the maximal extension further represents a conceptual blend combining properties that
+cannot actually coexist in particular those of both count and massnoun referents on
+the one hand it is conceptualized as a mass of indefinite extension   at the same time
+we conceptualize it as a bounded entity one that is somehow limited in extent langacker
+ 
+the properties of subjectless gerundives we have discussed thus far fit this
+description of maximal extension as a maximal extension they are virtual
+speakers are not referring to any actual instances rather what they are refer
+ring to are fictive instances a maximal extension is clearly an instance
+grounded somewhat differently from other types of grounding methods the
+genericity represented by subjectless gerundives is not a sign of their type
+properties but a result of their being grounded as a virtual unitary entity
+ zone activation and metonymy
+this section discusses how result nominals arise through zone activation pro
+fileactivezone discrepancy and metonymy first we would like to clarify what
+we mean by these two terms
+ is zone activation a species of metonymy
+metonymy is an extensively researched subject in recent cognitive linguistics
+covering a wide range of datawe do not intend nor pretend to review the
+some examples include croft  dirven  panther and radden  kvecses
+and radden  littlemore  and radden and kvecses  chongwon park and bridget park
+authenticated  cparkdumnedu authors copy
+download date    amlarge body of research on metonymy here as it is beyond the scope of this
+article what we are interested in is ascertaining the difference between meto
+nymy and zone activation and their roles in the rise of result nominals from
+different types of nominalizations
+zone activation and metonymy are frequently discussed notions in
+langacker s cgrelated publications langacker b    
+ these notions seen in  and  seem to be intricately connected
+while  is a typical instance of zone activation  is a clear example of
+metonymy in the former we observe the profileactivezone discrepancy
+because the profiled portion of your dog is actually your dog s teeth  instead of
+your dog s teeth  however your dog active zone plays the trajector role in the
+relationship leading to a discrepancy between the two your dog s teeth is
+cognitively activated by virtue of linguistic context  is a case of metonymy
+where the red shirts exhibits a reference shift from a physical entity to another
+characteristic associated with it ie a sports team
+ your dog bit my cat 
+langacker  
+ the red shirts won the match 
+geeraerts and peirsman  
+the concept of metonymy becomes more prominent in langacker s later work
+he   claims that  grammar is basically metonymic in that the
+information explicitly coded does not itself establish the precise connections
+apprehended by the speaker and hearer in using an expression he then
+emphasizes the connection between zone activation and metonymy in multiple
+publications overall langacker   argues that profileactivezone
+discrepancy is a special case of metonymy 
+unfortunately langacker does not always clearly distinguish between meto
+nymy and zone activation and other scholars interpret these notions differently
+paradis  for example argues that some of langacker s zone activation
+examples must be situated somewhere between metonymy and zone activation
+positing a new categorization called facetization by contrast ruiz de mendoza
+  describes facetization as another level for what croft  called
+domain highlighting  because of the different uses and definitions of the
+notion geeraerts and peirsman   describe zone activation as maybe
+one of the least homogeneous concepts of cognitive linguistics  to avoidcognitive grammar and english nominalization 
+authenticated  cparkdumnedu authors copy
+download date    amconfusion in our analysis we would like to clarify what we mean when we use
+metonymy and zone activation
+we adopt the view of geeraerts and peirsman  they argue that zone
+activation is a completely different phenomenon than metonymy based on the
+observation that there is a lack of nec essity of the reference shift in zone
+activation while this is required for typical metonymy such as 
+additionally in zone activation the p rofiled portion and its active zone may
+not be interchangeable in a certain grammatical context while a metonymi
+cally shifted expression is almost alway s interchangeable with its original
+expression as shown in  the profiled thing your dog s teeth i si n c o m p a 
+tible with the verb bite because it requires a volitional subject the predicate
+bit the cat is only compatible with the active zone your dog  by contrast 
+and  show that both the red shirts and the team a r ec o m p a t i b l ew i t ht h e
+same predicate barcelona   ma intains a similar position by stating
+that some instances like your dog bit me are doubtfully metonymicsince it
+is difficult to claim that the dog st e e t h are perspectivized from the dog 
+according to him  shows a contrast with  in which united states is
+clearly perspectivized from america 
+  your dog s teeth bit my cat 
+barcelona  
+ the team won the match 
+ america will prevail over terrorism 
+barcelona  
+although there are some borderline cases we believe the observations and
+claims made by the aforementioned sch olars are valid following their ela
+borated definitions of zone activati on and metonymy we use the term meto
+nymy when there is a reference shift and the shifted sense is still compatible
+with the predicate zone activation by contrast does not require a reference
+s h i f t a n da c t i v ez o n ea n dp r o f i l ea r en o t always interchangeable we believe
+this type of separation between the two notions is on a par with paradis s
+  definitions of metonymization and zone activation metonymiza
+tion is a construal that operates between senses  while active zone operates
+within senses 
+kvecses and radden   view this as whole for part metonymy chongwon park and bridget park
+authenticated  cparkdumnedu authors copy
+download date    am result nominals through zoneactivation or metonymy
+result nominals created with ation orment often exhibit a zone activation
+propertyin a the profiled portion is the landmark of the relationship
+denoted by the verb announce  however the whole reified event active zone
+becomes the trajector of the relati onship profiled by the predicate has shaken
+i t ss h a r e so nt h en e wy o r ks t o c ke x c h a n g e  this shows a profileactivezone
+discrepancy while the active zone  announcement  is compatible in a
+the profile announcement s contentoutcomeresult as seen in b is unna
+tural or unacceptable in the same context where the landmark of the reified
+event is grammatically expressed as that alex ferguson will retire in two
+weeks time after almost  years as manager of manchester united t h e
+same is true for a b the grammatical context in which the profiled
+portion of an event relationship landmark is overtly expressed is compatible
+only with active zone
+ a the sudden announcement on wednesday that alex ferguson
+will retire in two weeks time after almost  years as manager of
+manchester united has shaken its shares on the new york stock
+exchange to say nothing of its effect around the sporting world 
+new york times 
+b  the sudden announcement s contentoutcomeresult on wednesday
+that alex ferguson will retire in two weeks time after almost  years as
+manager of manchester united has shaken its shares on the new york
+stock exchange to say nothing of its effect around the sporting world 
+ a this institutional regime meant that companies were compelled to share
+a greater proportion of the wealth they generated with the people who
+c o n t r i b u t e dt oi t s creation atlantic 
+b  this institutional regime meant that companies were compelled to
+share a greater proportion of the wealth they generated with the people
+who contributed to its productresult of creation 
+some result nominals created with the said affixes may gain a new
+meaning through metonymic shift in  development is not a simple
+resultproduct or a target of developing and thus profileactivezone
+as explained in section  result nominals with these affixes may be construed metony
+mically as opposed to zoneactivationallycognitive grammar and english nominalization 
+authenticated  cparkdumnedu authors copy
+download date    amdiscrepancy is not observed instead development refers metonymically to the
+idea within the field of study in which the protagonist is participating this
+example seems to involve result for action metonymy similarly sensation
+in  is not the object of sensing rather it describes a widespread reaction
+caused by something perceived which might have resulted from cause for
+effect metonymy
+ there are moments he admits flashes that come and go as fast as a blinking
+light when he sees news reports about some new development in the field
+and it hits him wait a second they re saying that we ve melted a lot 
+esquire 
+ mr douglashughes came from a very old and wealthy family and i well
+recalled the sensation it had caused when he had married an american
+dancer named mamie allen 
+death wears a mask 
+while ationment affixed nominals become result nominals through either
+zone activation or metonymic shift  ingaffixed result nominals gain new mean
+ings mainly through metonymy as shown in  viewing undergoes a refer
+ential shift from a reified relationship of seeing toa ceremonial act of paying
+ones respect to a corpse  similarly  shows the reference shift of hearing
+from a reified relationship of perceiving sounds toan act of listening to
+evidence in a court of law 
+ stephanie has a grandma that s a really great old lady but kind of a
+couple cans short of a case and she goes to funerals she goes to funeral
+parlors for recreation you know four or five nights out of the week she ll be
+at a viewing 
+cnnsunmorn 
+ i was fascinated by it i watched the hearings when i was on vacation in
+michigan i loved it that we re still dealing with the aftermath of that 
+years later 
+abc 
+perhaps the rise of new meanings of viewing and hearings in  and  can be
+accounted for by the subevent and complex event metonymical pattern
+described by peirsman and geeraerts   this pattern according to
+the authors comprises two actions events or processes one of which is chongwon park and bridget park
+authenticated  cparkdumnedu authors copy
+download date    amconceptualized as a part of the other  in examples  and  viewing and
+hearings are reified subevents that are parts of complex events eg hearings in
+ includes the action of physical hearing but that is only a part of the
+complex process that includes other court activities nevertheless the speaker
+picks out one subevent from a complex event to refer to the complex event as a
+whole
+here we would like to emphasize that we are not claiming that suffixes
+exhibit metonymy which is different from janda s     v i e wo nm e t o n y m y
+and word formation rather as extens ively argued by brdar and brdarszabo 
+ in response to janda  a metonymic shift does operate on a whole
+d e r i v e dw o r da sas o u r c e  viewing in  gains a new meaning not because of
+the  ingaffix but because of the metonymic shift facilitated by the newly
+formed word viewing  this shift is possible due to the choice of a subevent of
+a complex event
+although the diachronic development of result nominals is beyond the
+scope of the present article it is also worth noting that many of the result
+nominals presented in this section are strongly lexicalized forms over time
+this type of lexicalization is not available for all nominalizations at least not
+to the same degree this means many of these highly lexicalized nominaliza
+tions have been shaped by usage especially when they are highly frequent
+naturally then zone activation and metonymy are not only processes that guide
+the synchronic interpretation of nominals but also important driving forces in
+the diachronic semantic development
+ converted nominals
+conversion within the context of metonymy has been discussed by many scho
+lars notably dirven  kvecses and radden  radden and kvecses
+ and schnefeld  radden and kvecses  argue that ntov
+and vton nominalization conversions can be seen as two complementary
+morphological processes leading to the two types of reversible metonymies 
+radden and kvecses   in schnefeld s   interpretation of
+radden and kvecses this means that the ntov conversion facilitates the
+whole event for participants metonymy whereas the vton conversion
+facilitates the participants for the whole event metonymy schnefeld
+however disagrees with this treatment of conversion she claims that conversion
+is a special case of metonymy and not all conversions should be considered
+metonymies we believe schnefeld s point is valid particularly in the case of v
+ton converted nominals as shown in cognitive grammar and english nominalization 
+authenticated  cparkdumnedu authors copy
+download date    am a thankfully about a year before i learned i had osteopenia my mom
+gave me a kick in the butt that inspired me to take control of my health 
+prevention 
+b this evening as always there will be four events a run a jump a
+throw and an agility drill 
+denver post 
+the converted noun kick in a is identical in its content to its base verb and
+run jump  and throw in b have the same content as their base verbs in both
+cases these nominals denote a reified relationship between two things exhibit
+ing maximal transparency between pre and postconversion these nominals
+created by vton conversions do not show a profileactivezone discrepancy nor
+do they facilitate a noticeable metonymic shift other than the general shift from
+the activity in general to a specific single act of performing the activity which is
+observed not only in this particular case but also in action nominalizations in
+general
+langacker   notes that nominalization does not add anything to the
+conceptual content of the verb the semantic contribution of nominalization is
+limited to profiling an aspect of construal  by contrast he views the ntov
+conversion as generally accompanied by the addition of conceptual content 
+langacker   what langacker means by nominalization is not limited to
+conversion only since he is discussing deverbal result nominals like explosion 
+we cannot fully agree with langacker in that as we observed some nominali
+zations seem to add some conceptual content such as assignment  which
+exhibits added content in addition to simply something assigned  however the
+vton conversion seems to support langacker s claim it does not add anything
+to the conceptual content other than some changes in profiling although the
+issue warrants further exploration the data presented here and elsewhere seem
+to support the view that vton converted nominals generally do not facilitate a
+metonymic shift other than the general shift mentioned above
+one final note on conversion many vton conversions have a genuine
+resultative interpretation as illustrated in as one of the reviewers of this
+article pointed out offer show  and catch have a resultative interpretation
+sometimes conversions profile the agent trajector as in the cook in d and
+the instrumental landmark as in the clasp in e
+the conversions in  qualify for episodic nominalizations that profile a region whose
+constitutive entities are the component states of a process langacker  
+we thank one reviewer who pointed this out with the examples provided in  chongwon park and bridget park
+authenticated  cparkdumnedu authors copy
+download date    am a they just kept upping the offer until i had to say yes 
+b shes the star of the show 
+c hesa good catch 
+dthe cook made scrumptious meals for homeless people 
+e you don t have to worry about messing with the clasp 
+these examples belong to the simplest type of nominalization in terms of
+langacker   in this type nominalization occurs by shifting the profile
+of a verb to a nominal where the nominal can be either a trajector as in d or
+a landmark as in e similar to other cases of conversions no new content is
+added to the base verb s conceptual content the nominalization occurs through
+the shift of profiling
+ conclusion
+throughout this article we demonstrated that generalizations proposed by
+alexiadou and grimshaw  are too strong to capture the flexible nature
+of event result and gerundive nominalizations although these are generally
+agreedupon observations at least in the formal linguistics enterprise in fact
+many grammatical constructs often treated as infelicitous by previous research
+ers are observed in naturallyoccurring discourses we observed that event
+nominals exhibit great similarities to gerundive nominalizations in that both of
+them utilize the speaker s ability to construe an event as a masslike entity be
+that as it may they are different concerning the grounding strategies they adopt
+while event nominals and the ingofgerundives adopt all grounding strategies
+clausal nominalizations permit only two strategies indirect grounding through a
+reference point and grounding by maximal extension event nominals and ing
+nominals also contrast in their result nominal uses we observed that result
+nominals with ationment or other similar affixes arise due to zone activation
+or a metonymic shift by contrast  ingaffixed result nominals tend to be created
+only through a metonymic shift here we would like to emphasize that these are
+just tendencies we observed with a limited set of data instead of a principled
+guideline vton converted nominals are different from the two aforementioned
+cases neither zone activation nor a metonymic shift other than a general shift
+observed in nominalizations is utilized in conversion in that sense converted
+nominals exhibit the most transparent case among the three
+this article was a small attempt to develop a uniform analysis of event
+result and gerundive nominals from a cg perspective as mentioned in thecognitive grammar and english nominalization 
+authenticated  cparkdumnedu authors copy
+download date    amoverview section of this article these topics have been thoroughly examined
+from various formal linguistics perspectives it is somewhat surprising that
+relatively little attention has been paid to these phenomena within the purview
+of cognitive linguistics a more surprising finding is that formal linguists and
+cognitive linguists do not seem to communicate enough in dealing with these
+phenomena although both groups provide good insight and can learn from
+each other s research we tried to incorporate these two groups views with the
+hope that understanding each other s view will enhance our understanding
+without respect to our theoretical persuasions
+acknowledgements
+the authors would like to express their deep gratitude to the three reviewers of
+this article who provided valuable comments and suggestions to improve it a
+small portion of this article was presented by the first author at the th uk
+cognitive linguistics conference held at bangor university in july  the
+first author thanks the audience members who were present at the session and
+provided insightful and thoughtprovoking questions and comments
+particularly he acknowledges suzanne kemmer klausuwe panther and
+linda thornburg both authors would like to thank their colleagues at the
+university of minnesota duluth umd who read various earlier versions of
+this paper becky boyle william salmon dan turner and liz wright this
+research was supported by the dean s excellence funds of the umd college of
+liberal arts the authors thank dean sue maher for her generous support after
+submitting this article the authors received a copy of rochelle lieber s book
+lieber  makes many similar observations to ours concerning nominaliza
+tions although her approach is remarkably different from theirs the authors
+would like to point out that the lack of the discussion on lieber  is due to
+the publication timing not because of the lack of importance of her
+contribution
+references
+abney steven  the english noun phrase in its sentential aspect  cambridge ma mit
+dissertation
+alexiadou artemis  functional structure in nominals nominalization and ergativity 
+amsterdam  philadelphia john benjamins
+alexiadou artemis  on the role of syntactic locality in morphological process the case
+of greek deverbal nominals in anastasia giannakidou  monika rathert eds chongwon park and bridget park
+authenticated  cparkdumnedu authors copy
+download date    amquantification definiteness and nominalization    oxford oxford university
+press
+alexiadou artemis  jane grimshaw  verbs nouns and affixation working papers of the
+sfb  incremental specification in context  
+alexiadou artemis gianina iorda chioasis  elena soare  numberaspect interactions
+in the syntax of nominalizations a distributed morphology approach journal of
+linguistics   
+baker mark  syntactic affixation and english gerunds proceedings of the west coast
+conference on linguistics    stanford ca stanford linguistics association
+barcelona antonio  reviewing the properties and prototype structure of metonymy
+in re ka benczes antonio barcelona  francisco jose ruiz de mendoza ibez eds
+defining metonymy in cognitive linguistics towards a consensus view  amsterdam 
+philadelphia john benjamins
+bauer laurie rochelle lieber  ingo plag  the oxford reference guide to english
+morphology  oxford oxford university press
+borer hagit  exoskeletal vs endoskeletal explanations syntactic projections and the
+lexicon in john moore  maria polinsky eds the nature of explanation in linguistic
+theory   stanford ca center for the study of language and information
+borer hagit  structuring sense ii the normal case of events  oxford oxford university
+press
+borer hagit  the category of roots in artemis alexiadou hagit borer  florian schfer
+eds the syntax of roots and the roots of syntax    oxford oxford university
+press
+brdar mario  rita brdarszabo   where does metonymy begin some comments on
+janda  cognitive linguistics   
+cappelle bert  rennat declerck  spatial and temporal boundedness in english motion
+events journal of pragmatics   
+chierchia gennaro  topics in the syntax and semantics of infinitives and gerunds 
+amherst university of massachusetts dissertation
+croft william  the role of domains in the interpretation of metaphors and metonymies
+cognitive linguistics   
+dancygier barbara  eve sweetser  figurative language  cambridge cambridge
+university press
+davidse kristin  categories of experiential grammar  leuven belgium university of
+leuven dissertation
+davidson donald  essays on actions and events  oxford oxford university press
+davies mark  corpus of contemporary american english httpcorpusbyueducoca
+dirven rene   conversion as a conceptual metonymy of event schemata in klausuwe
+panther  gnter radden eds metonymy in language and thought   
+amsterdam  philadelphia john benjamins
+embick david  locality listedness and morphological identity studia linguistica 
+
+filip hana  quantification aspect and lexicon proceedings of the european summer
+school in logic language and information esslli  conference on formal grammar 
+ prague charles university
+geeraerts dirk  yves peirsman  zones facets and prototypebased metonymy in re ka
+benczes antonio barcelona  francisco jose ruiz de mendoza ibez eds definingcognitive grammar and english nominalization 
+authenticated  cparkdumnedu authors copy
+download date    ammetonymy in cognitive linguistics towards a consensus view    amsterdam 
+philadelphia john benjamins
+grimshaw jane  argument structure  cambridge ma mit press
+grimshaw jane  why can t a noun be more like a verb paper presented at the
+international conference on deverbal nouns university of lille   september
+halle morris  alex marantz  distributed morphology and the pieces of inflection in ken
+hale  samuel j keyser eds the view from building     cambridge ma mit
+press
+halliday michael a k  the concept of rank a reply journal of linguistics   
+harley heidi  the morphology of nominalizations and the syntax of vp in anastasia
+giannakidou  monika rathert eds quantification definiteness and nominalization 
+ oxford oxford university press
+heyvaert liesbert  gerundive nominalizations from type specification to grounded
+instance in ad foolen  frederike van der leek eds constructions in cognitive lin
+guistics    amsterdam  philadelphia john benjamins
+heyvaert liesbert  a cognitivefunctional approach to nominalization in english  berlin 
+new york mouton de gruyter
+heyvaert liesbert  on the constructional semantics of gerundive nominalizations folia
+linguistica   
+hudson richard  language networks the new word grammar  oxford oxford university
+press
+jackendoff ray  xsyntax  cambridge ma mit press
+jackendoff ray  parts and boundaries cognition    
+janda laura a  metonymy in wordformation cognitive linguistics   
+kaiser lizanne  the morphosyntax of clausal nominalization constructions  new haven
+ct yale university dissertation
+kvecses zolta n  gnter radden  metonymy developing a cognitive linguistics view
+cognitive linguistics   
+krifka manfred  thematic relations as links between nominal reference and temporal
+constitution in ivan sag  anna szalbolcsi eds lexical matters    stanford ca
+center for the study of language and information
+krifka manfred francis jeffry pelletier gregory n carlson alice ter meulen godehard link 
+gennaro chierchia  genericity an introduction in gregory n carlson  francis jeffry
+pelletier eds the generic book  chicago  london the university of chicago
+press
+langacker ronald w  active zones in claudia burgman  monica macaulay eds
+proceedings of the annual meeting of the berkeley linguistics society  vol   
+berkeley ca berkeley linguistic society
+langacker ronald w a nouns and verbs language   
+langacker ronald w b foundations of cognitive grammar vol  theoretical prerequi
+sites  stanford ca stanford university press
+langacker ronald w  foundations of cognitive grammar vol  descriptive application 
+stanford ca stanford university press
+langacker ronald w  the symbolic nature of cognitive grammar the meaning of ofand
+ofofperiphrasis in martin putz ed thirty years of linguistic evolution   
+amsterdam  philadelphia john benjamins
+langacker ronald w  referencepoint constructions cognitive linguistics    chongwon park and bridget park
+authenticated  cparkdumnedu authors copy
+download date    amlangacker ronald w  raising and transparency language   
+langacker ronald w  grammar and conceptualization  berlin  new york mouton de
+gruyter
+langacker ronald w  cognitive grammar a basic introduction  oxford oxford university
+press
+langacker ronald w  investigations in cognitive grammar  berlin  new york mouton de
+gruyter
+lees robert b  the grammar of english nominalizations  the hague  the netherlands
+mouton  co publishers republished  research center in anthropology folklore
+and linguistics publication  bloomington indiana university
+lieber rochelle  english nouns the ecology of nominalization  cambridge cambridge
+university press
+littlemore jeannette  metonymy hidden shortcuts in language thought and commu
+nication  cambridge cambridge university press
+macfadden thomas  default case and status of compound categories in distributed
+morphology university of pennsylvania working papers in linguistics   
+malouf robert  mixed categories in the hierarchical lexicon  stanford ca stanford
+university dissertation
+marantz alec  words  manuscript mit  nyu httpbabelucsceduhankmrgread
+ingsmarantzwordspdf accessed  february 
+mcgrath alister  doubting growing through the uncertainties of faith  downers grove
+il intervarsity press
+morzycki marcin  modification  cambridge cambridge university press
+newmeyer frederick  current challenges to the lexicalist hypothesis in william lewis
+simin karimi  heidi harley eds time and again theoretical perspectives on formal
+linguistics    amsterdam  philadelphia john benjamins
+panther klausuwe  the role of conceptual metonymy in meaning construction in
+francisco jose ruiz de mendoza  sandra pena cervel eds cognitive linguistics internal
+dynamics and interdisciplinary interaction    berlin  new york mouton de
+gruyter
+panther klausuwe  gnter radden eds  metonymy in language and thought 
+amsterdam  philadelphia john benjamins
+paradis carita  where does metonymy stop senses facets and active zone metaphor
+and symbol   
+paradis carita  metonymization a key mechanism in semantic change in re ka benczes
+antonio barcelona  francisco jose ruiz de mendoza ibez eds defining metonymy in
+cognitive linguistics toward a consensus view    amsterdam  philadelphia john
+benjamins
+parsons terence  events in the semantics of english a study in subatomic semantics 
+cambridge ma mit press
+peirsman yves  dirk geeraerts  metonymy as a prototypical category cognitive
+linguistics   
+portner paul h  situation theory and the semantics of propositional expressions 
+amherst ma university of massachusetts dissertation
+postal paul  on coreferential complement subject deletion linguistic inquiry 
+ cognitive grammar and english nominalization 
+authenticated  cparkdumnedu authors copy
+download date    ampullum geoffrey k  english nominal gerund phrases as noun phrases with verbphrase
+heads linguistics   
+radden gnter  zolta n kvecses  towards a theory of metonymy in klausuwe
+panther  gnter radden eds metonymy in language and thought   amsterdam 
+philadelphia john benjamins
+rosenbaum peter  the grammar of english predicate complement constructions 
+cambridge ma mit press
+ruiz de mendoza ibez francisco jose   metonymy and cognitive operations in re ka
+benczes antonio barcelona  francisco jose ruiz de mendoza ibez eds defining
+metonymy in cognitive linguistics toward a consensus view    amsterdam 
+philadelphia john benjamins
+schachter paul  a nontransformational account of gerundive nominals in english
+linguistic inquiry   
+schnefeld doris  zeroderivation functional change metonymy in laurie bauer 
+salvador valera eds approaches to conversionzeroderivation  new york ny
+waxmann
+schtze carson  on the nature of default case syntax   
+smith carlota s  on causative verbs and nominals in english linguistic inquiry 
+
+taylor john  possessives in english an exploration in cognitive grammar  oxford oxford
+university press
+verkuyl henk  a theory of aspectuality the interaction between temporal and atemporal
+structure  cambridge cambridge university press
+yoon james h  nominal gerund phrases in english as phrasal zero derivations
+linguistics   
+yoon james h  neus bonetfarran  the ambivalent nature of spanish infinitives in
+dieter wanner  douglas kibee eds new analyses in romance linguistics   
+amsterdam  philadelphia john benjamins
+zucchi alessandro  the language of propositions and events issues in the syntax and
+semantics of nominalization  dordrecht netherlands kluwer academic publishers chongwon park and bridget park
+authenticated  cparkdumnedu authors copy
+download date    am
