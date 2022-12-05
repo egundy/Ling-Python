@@ -1,17 +1,17 @@
 import re
 #func 43
-def getsentences(t):
+def getsentences(text):
     splitters = '.?!'
     ss = []
     i = 0
-    while i < len(t):
+    while i < len(text):
         s = ''
         while i < len(t) and \
-            t[i] not in splitters:
+            text[i] not in splitters:
                 s += t[i]
                 i += 1
-        if i < len(t):
-            s += t[i]
+        if i < len(text):
+            s += text[i]
         i += 1
         ss.append(s)
     return ss
