@@ -14,7 +14,7 @@ import json
 import PyPDF2
 
 def menu(): # define the function to display the menu
-    menu_text = ("""
+    print("""
 =====================================================
 | 1. Capitalize a sentence correctly                |
 | 2. Identify if a string is a palindrome           |
@@ -105,8 +105,6 @@ def read_file():  # Function to read a pdf file and extract the text
 def tokenize(text):   # Function to tokenize the text into words
     tokens = word_tokenize(text)   # Tokenize the text into words
     return tokens   # Return the tokens
-        
-    
 
 def remove_stopwords(text):   # Function to remove stopwords from the text
     stops = stopwords.words('english')   # Define stopwords to remove from the list
@@ -117,32 +115,12 @@ def remove_stopwords(text):   # Function to remove stopwords from the text
 def expand_contractions(text) -> list:   # Function to expand contractions
     # Define a dictionary of contractions to expand
     contractions = {  
-        "ain't": "am not",
-        "aren't": "are not",
-        "can't": "cannot",
-        "can't've": "cannot have",
-        "'cause": "because",
-        "could've": "could have",
-        "couldn't": "could not",
-        "couldn't've": "could not have",
-        "didn't": "did not",
-        "doesn't": "does not",
-        "don't": "do not",
-        "hadn't": "had not",
-        "hadn't've": "had not have",
-        "hasn't": "has not",
-        "haven't": "have not",
-        "he'd": "he had",
-        "he'd've": "he would have",
-        "he'll": "he shall",
-        "he'll've": "he shall have",
-        "he's": "he has",
-        "how'd": "how did",
-        "how'd'y": "how do you",
-        "how'll": "how will",
-        "how's": "how has",
-        "i'd": "I had",
-        "i'd've": "I would have"
+        "ain't": "am not","aren't": "are not","can't": "cannot","can't've": "cannot have","'cause": "because",
+        "could've": "could have","couldn't": "could not","couldn't've": "could not have","didn't": "did not",
+        "doesn't": "does not","don't": "do not","hadn't": "had not","hadn't've": "had not have","hasn't": "has not",
+        "haven't": "have not","he'd": "he had","he'd've": "he would have","he'll": "he shall","he'll've": "he shall have",
+        "he's": "he has","how'd": "how did","how'd'y": "how do you","how'll": "how will",
+        "how's": "how has","i'd": "I had","i'd've": "I would have"
     }
     text = [contractions[word] if word in contractions else word for word in text]   # Expand all contractions in the text
     return text
@@ -197,5 +175,5 @@ def main():
     
     
 # Call the main function
-#if __name__ == '__main__':
-    #main()
+if __name__ == '__main__':
+    main()
