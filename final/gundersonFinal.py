@@ -11,9 +11,10 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 import spacy
 import json
+import PyPDF2
 
 def menu(): # define the function to display the menu
-    print("""
+    menu_text = ("""
 =====================================================
 | 1. Capitalize a sentence correctly                |
 | 2. Identify if a string is a palindrome           |
@@ -90,18 +91,32 @@ def ui_palindrome():
     pass
 
 """ Task 3: Generate a reverse order freq. list of words in a PDF """
-def read_file_remove_stops():  # Function to read a file and remove stopwords
-    stopwords = stopwords.words('english')   # Define stopwords to remove from the list
-    with open("Neg Inversions.pdf", "r") as f:   # Open the PDF file
-        text = f.read()  # Read the file
-    text = word_tokenize(text)   # Tokenize the text
-    no_stops_text = [word for word in text if word not in stopwords]  # Remove all stopwords from the list
-    return no_stops_text
+def read_file():  # Function to read a pdf file and extract the text
+    # Open the pdf with PyPDF2 and read the text
+    with open("Neg Inversions_2018.pdf", "rb") as pdf_file_in:
+        pdf_reader = PyPDF2.PdfFileReader(pdf_file_in)
+        # Get the number of pages in the pdf
+        for page in range(pdf_reader.getNumPages()):
+            # Get the text from each page
+            page = pdf_reader.getPage(page)
+            text = page.extractText()
+    return text   # Return the text
+
+def tokenize(text):   # Function to tokenize the text into words
+    tokens = word_tokenize(text)   # Tokenize the text into words
+    return tokens   # Return the tokens
+        
+    
+
+def remove_stopwords(text):   # Function to remove stopwords from the text
+    stops = stopwords.words('english')   # Define stopwords to remove from the list
+    no_stops = [word for word in text if word not in stops]   # Remove stopwords from the text
+    return no_stops   # Return the text without stopwords
 
 # function that expands contractions in the text
 def expand_contractions(text) -> list:   # Function to expand contractions
-    contractions =    # Define a dictionary of contractions to expand
-    {
+    # Define a dictionary of contractions to expand
+    contractions = {  
         "ain't": "am not",
         "aren't": "are not",
         "can't": "cannot",
@@ -136,9 +151,10 @@ def clean_text(text) -> list:   # Function to clean the text
     text = [word.lower() for word in text]   # Convert all text to lower case
     text = [re.sub(r'[^a-z]', '', word) for word in text]   # Remove all non-alphabetical characters
     text = [word for word in text if word != '']   # Remove all empty strings
-    return text
+    cleaned_text = text   # Set the cleaned text to the text
+    return cleaned_text
 
-def freq_list(text):    # Function to create a frequency list of words and sort it in reverse order
+def frequency_list(text):    # Function to create a frequency list of words and sort it in reverse order
     freq_list = {}    # Define an empty dictionary
     for word in text:    # For each word in the text
         if word in freq_list:    # If the word is already in the dictionary
@@ -154,9 +170,16 @@ def to_json(freq_list):    # Function to convert the frequency list to a JSON fi
 
 def ui_freq_list():    # Function to run the frequency list task
     pass
-    
-    
-    
+
+def run_freq_list():    # Function to run the frequency list task    
+    text = read_file()    # Read the text from the pdf
+    tokens = tokenize(text)    # Tokenize the text
+    no_stops = remove_stopwords(tokens)    # Remove stopwords from the text
+    expanded = expand_contractions(no_stops)    # Expand contractions in the text
+    cleaned_text = clean_text(expanded)    # Clean the text
+    freq_list = frequency_list(cleaned_text)    # Create a frequency list of words
+    to_json(freq_list)    # Convert the frequency list to JSON
+
 """ Main program loop """
 def main():
     mainflag = True
@@ -174,5 +197,5 @@ def main():
     
     
 # Call the main function
-if __name__ == '__main__':
-    main()
+#if __name__ == '__main__':
+    #main()
