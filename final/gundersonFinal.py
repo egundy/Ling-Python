@@ -14,6 +14,8 @@ import json
 import PyPDF2
 import numpy as np
 import concurrent.futures
+import requests
+from bs4 import BeautifulSoup
 
 # Global variables
 nlp = spacy.load("en_core_web_sm")   # Load the English language model
@@ -200,7 +202,64 @@ def run_pride_and_prejudice():
     #sentences = sent_tokenize(text)    # Tokenize the text into sentences
     similies = identify_similies(text)    # Identify similies in the text
     print(similies)
-run_pride_and_prejudice()
+#run_pride_and_prejudice()
+
+""" Task 5: Find people listed on the linguistics wikipedia page """
+""" From the Wikipedia page on linguistics (https://en.wikipedia.org/wiki/Linguistics), extract all
+PERSON-type entities and generate a frequency list of those entities. Who are the important
+figures in linguistics? The best way to handle this question is to use SpaCy, which has the
+PERSON tag for the .label_ attribute. """
+
+def read_wiki():    # Function to read the text from the wikipedia page
+    try:    # Try to read the text from the wikipedia page
+        wiki_url = "https://en.wikipedia.org/wiki/Linguistics"    # Define the url
+        response = requests.get(wiki_url)    # Get the response from the url
+        soup = BeautifulSoup(response.text, "html.parser")    # Create a soup object
+        text = soup.get_text()    # Get the text from the soup object
+        return text    # Return the text
+    except:    # If the text cannot be read
+        print("Error reading the text from the wikipedia page")
+        
+def get_people(text):    # Function to get the people from the text
+    doc = nlp(text)    # Create a spaCy document
+    people = []    # Define an empty list
+    for ent in doc.ents:    # For each entity in the document
+        if ent.label_ == "PERSON":    # If the entity is a person
+            people.append(ent.text)    # Append the entity to the list
+        else:   # If the entity is not a person
+            continue    # Continue to the next entity
+    return people    # Return the list
+
+def remove_linguistics(people):   # Function to remove the word linguistics from the list
+    people = [person for person in people if person.lower() != "linguistics"]    # Remove the word linguistics from the list
+    return people    # Return the list
+    
+
+def people_frequency_list(people):    # Function to create a frequency list of people
+    freq_list = {}    # Define an empty dictionary
+    for person in people:    # For each person in the list
+        if person in freq_list:    # If the person is already in the dictionary
+            freq_list[person] += 1    # Increment the count
+        else:    # If the person is not in the dictionary
+            freq_list[person] = 1    # Add the person and set the count to 1
+    freq_list = sorted(freq_list.items(), key=lambda x: x[1], reverse=True)    # Sort the dictionary in reverse order
+    return freq_list    # Return the sorted dictionary
+
+def top_ten_people(freq_list):    # Function to print the top ten people
+    print("The top ten people in linguistics are:")
+    for i in range(10):    # For the first ten items in the list
+        print(f"{i+1}. {freq_list[i][0]}")    # Print the person
+
+def run_people():   # Function to run the people task
+    text = read_wiki()    # Read the text from the wikipedia page
+    people = get_people(text)    # Get the people from the text
+    people = remove_linguistics(people)    # Remove the word linguistics from the list
+    freq_list = people_frequency_list(people)    # Create a frequency list of people
+    top_ten_people(freq_list)    # Print the top ten people
+run_people()
+
+
+
 
 """ Main program loop """
 def main():
