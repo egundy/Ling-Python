@@ -7,11 +7,16 @@ To use this program, type the following in the terminal: python3.1x gundersonFin
 
 # global imports
 import re
-from nltk.tokenize import word_tokenize
+from nltk.tokenize import word_tokenize, sent_tokenize
 from nltk.corpus import stopwords
 import spacy
 import json
 import PyPDF2
+import numpy as np
+import concurrent.futures
+
+# Global variables
+nlp = spacy.load("en_core_web_sm")   # Load the English language model
 
 def menu(): # define the function to display the menu
     print("""
@@ -91,7 +96,7 @@ def ui_palindrome():
     pass
 
 """ Task 3: Generate a reverse order freq. list of words in a PDF """
-def read_file():  # Function to read a pdf file and extract the text
+def read_pdf():  # Function to read a pdf file and extract the text
     # Open the pdf with PyPDF2 and read the text
     with open("Neg Inversions_2018.pdf", "rb") as pdf_file_in:
         pdf_reader = PyPDF2.PdfFileReader(pdf_file_in)
@@ -150,13 +155,51 @@ def ui_freq_list():    # Function to run the frequency list task
     pass
 
 def run_freq_list():    # Function to run the frequency list task    
-    text = read_file()    # Read the text from the pdf
+    text = read_pdf()    # Read the text from the pdf
     tokens = tokenize(text)    # Tokenize the text
     no_stops = remove_stopwords(tokens)    # Remove stopwords from the text
     expanded = expand_contractions(no_stops)    # Expand contractions in the text
     cleaned_text = clean_text(expanded)    # Clean the text
     freq_list = frequency_list(cleaned_text)    # Create a frequency list of words
     to_json(freq_list)    # Convert the frequency list to JSON
+
+""" Task 4: Pride and Prejudice find similies """
+""" From the Pride and Prejudice text, extract all sentences that might contain similes. Your output
+needs to be saved as a file. Note that similes are often accompanied by the preposition like as in
+the dog eats like a person. It would be best to remember that not all like are associated with
+similes. For example, the sentence it seems like John is a loser is not a simile, though the like in
+this sentence is also a preposition. """
+
+def read_txt(filename):    # Function to read the text file
+    with open(f"{filename}", "r") as f:    # Open the text file
+        text = f.read()    # Read the text file
+    return text    # Return the text
+
+"""def identify_similies(text):    # Function to identify similies in the text
+    doc = nlp(text)    # Create a spaCy document
+    similies = []    # Define an empty list
+    for token in doc:   # For each token in the document
+        if token.dep_ == "advmod" and token.lemma_ == "like":   # If the token is an adverbial modifier and the lemma is like
+            similie = []    # Define an empty list
+            for child in token.head.children:   # For each child of the token
+                similie.appened(child.text)    # Append the child to the list
+            similies.append(" ".join(similie)) # Append the list to the similies list
+    return similies # Return the similies list"""
+
+# Second try at an identify similies function
+def identify_similies(text):
+    with concurrent.futures.ProcessPoolExecutor() as executor:
+        doc = nlp(text)
+        mask = (doc.dep_ == "advmod") & (doc.lemma_ == "like")
+        similes = [executor.submit(" ".join, (child.text for child in token.head.children)) for token in doc[mask]]
+        return [task.result() for task in similes]
+
+def run_pride_and_prejudice():
+    text = read_txt("prideprej.txt")   # Read the text from the text file
+    #sentences = sent_tokenize(text)    # Tokenize the text into sentences
+    similies = identify_similies(text)    # Identify similies in the text
+    print(similies)
+run_pride_and_prejudice()
 
 """ Main program loop """
 def main():
@@ -172,8 +215,7 @@ def main():
             case 'q':
                 print("Thank you for using this program! Goodbye!")
                 mainflag = False
-    
-    
+   
 # Call the main function
-if __name__ == '__main__':
+#if __name__ == '__main__':
     main()
