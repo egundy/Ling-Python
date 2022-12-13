@@ -7,8 +7,10 @@ To use this program, type the following in the terminal: python3.1x gundersonFin
 
 # global imports
 import re
-import nltk
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
 import spacy
+import json
 
 def menu(): # define the function to display the menu
     print("""
@@ -82,7 +84,77 @@ def is_palindrom(string): # function to identify if a string is a palindrome
         return True    # Return True
     else:    # If the string is not equal to the reverse of the string, it is not a palindrome
         return False    # Return False
+# Task 2 user interface
+def ui_palindrome():
+    # code for user interaction with the palindrome task
+    pass
 
+""" Task 3: Generate a reverse order freq. list of words in a PDF """
+def read_file_remove_stops():  # Function to read a file and remove stopwords
+    stopwords = stopwords.words('english')   # Define stopwords to remove from the list
+    with open("Neg Inversions.pdf", "r") as f:   # Open the PDF file
+        text = f.read()  # Read the file
+    text = word_tokenize(text)   # Tokenize the text
+    no_stops_text = [word for word in text if word not in stopwords]  # Remove all stopwords from the list
+    return no_stops_text
+
+# function that expands contractions in the text
+def expand_contractions(text) -> list:   # Function to expand contractions
+    contractions =    # Define a dictionary of contractions to expand
+    {
+        "ain't": "am not",
+        "aren't": "are not",
+        "can't": "cannot",
+        "can't've": "cannot have",
+        "'cause": "because",
+        "could've": "could have",
+        "couldn't": "could not",
+        "couldn't've": "could not have",
+        "didn't": "did not",
+        "doesn't": "does not",
+        "don't": "do not",
+        "hadn't": "had not",
+        "hadn't've": "had not have",
+        "hasn't": "has not",
+        "haven't": "have not",
+        "he'd": "he had",
+        "he'd've": "he would have",
+        "he'll": "he shall",
+        "he'll've": "he shall have",
+        "he's": "he has",
+        "how'd": "how did",
+        "how'd'y": "how do you",
+        "how'll": "how will",
+        "how's": "how has",
+        "i'd": "I had",
+        "i'd've": "I would have"
+    }
+    text = [contractions[word] if word in contractions else word for word in text]   # Expand all contractions in the text
+    return text
+        
+def clean_text(text) -> list:   # Function to clean the text
+    text = [word.lower() for word in text]   # Convert all text to lower case
+    text = [re.sub(r'[^a-z]', '', word) for word in text]   # Remove all non-alphabetical characters
+    text = [word for word in text if word != '']   # Remove all empty strings
+    return text
+
+def freq_list(text):    # Function to create a frequency list of words and sort it in reverse order
+    freq_list = {}    # Define an empty dictionary
+    for word in text:    # For each word in the text
+        if word in freq_list:    # If the word is already in the dictionary
+            freq_list[word] += 1    # Increment the count
+        else:    # If the word is not in the dictionary
+            freq_list[word] = 1    # Add the word and set the count to 1
+    freq_list = sorted(freq_list.items(), key=lambda x: x[1], reverse=True)    # Sort the dictionary in reverse order
+    return freq_list    # Return the sorted dictionary
+
+def to_json(freq_list):    # Function to convert the frequency list to a JSON file
+    with open("freq_list.json", "w") as f:    # Open the JSON file
+        json.dump(freq_list, f)    # Write the frequency list to the JSON file
+
+def ui_freq_list():    # Function to run the frequency list task
+    pass
+    
     
     
 """ Main program loop """
