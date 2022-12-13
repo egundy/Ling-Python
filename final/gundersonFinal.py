@@ -174,7 +174,7 @@ def read_txt(filename):    # Function to read the text file
     with open(f"{filename}", "r") as f:    # Open the text file
         text = f.read()    # Read the text file
     return text    # Return the text
-
+# ignore this function it was a first attempt, but i did not want to delete it yet
 """def identify_similies(text):    # Function to identify similies in the text
     doc = nlp(text)    # Create a spaCy document
     similies = []    # Define an empty list
@@ -187,12 +187,13 @@ def read_txt(filename):    # Function to read the text file
     return similies # Return the similies list"""
 
 # Second try at an identify similies function
-def identify_similies(text):
-    with concurrent.futures.ProcessPoolExecutor() as executor:
-        doc = nlp(text)
-        mask = (doc.dep_ == "advmod") & (doc.lemma_ == "like")
-        similes = [executor.submit(" ".join, (child.text for child in token.head.children)) for token in doc[mask]]
-        return [task.result() for task in similes]
+def identify_similies(text):    # Function to identify similies in the text
+    with concurrent.futures.ProcessPoolExecutor() as executor:  # Create a process pool executor
+        doc = nlp(text)   # Create a spaCy document
+        mask = (doc.dep_ == "advmod") & (doc.lemma_ == "like")  # Create a mask for the tokens
+        similes = [executor.submit(" ".join, (child.text for child in token.head.children)) for token in doc[mask]]     # Create a list of tasks to identify similies
+        results = [task.result() for task in similes]  # Results of the tasks
+        return results  # Return the results
 
 def run_pride_and_prejudice():
     text = read_txt("prideprej.txt")   # Read the text from the text file
