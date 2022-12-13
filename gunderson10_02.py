@@ -56,17 +56,15 @@ def generate_question(nlp, doc, question_type):
                 print(sent, ": info question")
                 break
     elif 'yesno':
-        for i, token in enumerate(doc):
-            if token.dep_ == 'dobj':
-                sent = 'do you ' + doc[i:].text
-                print(sent, ": yesno question")
-                break
+        sent = 'do you ' + doc.text
     else:
         raise ValueError('Invalid question type')
     doc = nlp(sent)
     # add a question mark
     # capitalize the first letter
+    sent = sent[0].upper() + sent[1:] + '?'
     print(sent)
+    return sent
 
 # the main code
 def main():
