@@ -256,10 +256,17 @@ def run_people():   # Function to run the people task
     people = remove_linguistics(people)    # Remove the word linguistics from the list
     freq_list = people_frequency_list(people)    # Create a frequency list of people
     top_ten_people(freq_list)    # Print the top ten people
-run_people()
+#run_people()
 
+""" Using spaCy, display the dependency parse for the 78th sentence of the above Wikipedia page.
+For this question, you need to refer to the spaCy manual available online. """
 
-
+def get_sentence():     # Function to get the 78th sentence from the wikipedia page
+    text = read_wiki()    # Read the text from the wikipedia page
+    doc = nlp(text)    # Create a spaCy document
+    sentences = list(doc.sents)    # Create a list of sentences
+    return sentences[77]    # Return the 78th sentence
+get_sentence()
 
 """ Main program loop """
 def main():
